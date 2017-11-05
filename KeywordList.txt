@@ -1,0 +1,1168 @@
+&
+20xx
+&
+aerial glide toss
+aerial-glide-toss
+aerial glide tossing
+aerial-glide-tossing
+glide toss
+glide-toss
+glidetoss
+glide tossing
+glide-tossing
+glidetossing
+agt
+&
+autocancel
+auto cancel
+auto-cancel
+autocanceling
+auto canceling
+auto-canceling
+autocancelling
+auto cancelling
+auto-cancelling
+ac
+&
+autolanding
+auto-landing
+auto landing
+autoland
+auto-land
+auto land
+&
+bat dropping
+bat drop
+batdrop
+bat-drop
+bat-dropping
+&
+bdacus
+buffered dash attack canceled up smash
+&
+better nerf greninja
+&
+boost grab
+boost grabbing
+boostgrab
+boostgrabbing
+boost-grab
+boost-grabbing
+&
+bowsercide
+bowser-cide
+bowser cide
+bowserciding
+bowser-ciding
+bowser ciding
+&
+brawl
+super smash bros brawl
+super smash brothers brawl
+super smash bros. brawl
+ssbb
+&
+cave of life
+life cave
+cave-of-life
+life-cave
+&
+chain grab
+chaingrab
+chain-grab
+chain grabbing
+chaingrabbing
+chain-grabbing
+cg
+chain throw
+chainthrow
+chain-throw
+chain throwing
+chainthrowing
+chain-throwing
+&
+charlie walk
+charliewalk
+charlie-walk
+charlie walking
+charliewalking
+charlie-walking
+&
+crawl-sliding
+crawlsliding
+crawl sliding
+crawl-slide
+crawlslide
+crawl slide
+&
+comcast can suck it
+screw you comcast guy
+&
+dacus
+dash attack canceled up smash
+dash attack cancelled up smash
+dash-attack-canceled-up-smash
+dash-attack-cancelled-up-smash
+boost smashing
+boost smash
+boost-smash
+&
+dair
+ada
+d-air
+d air
+dairing
+d-airing
+d airing
+dair-ing
+d-air-ing
+d air-ing
+down aerial
+down-aerial
+down air
+down-air
+down midair attack
+down-midair-attack
+down air attack
+down-air-attack
+&
+dash-canceling
+dash-cancelling
+dash canceling
+dash cancelling
+dash-cancel
+dash cancel
+run-canceling
+run-cancelling
+run canceling
+run cancelling
+run-cancel
+run cancel
+&
+dash pivot cancel
+dash-pivot-cancel
+dash pivot canceling
+dash-pivot-canceling
+dash pivot cancelling
+dash-pivot-cancelling
+dpc
+&
+dash dance
+dashdance
+dash-dance
+dash dancing
+dashdancing
+dash-dancing
+&
+dash shining
+dash-shining
+dash shine
+dash-shine
+&
+dash-sliding
+dash sliding
+dashsliding
+dash-slide
+dash slide
+dashslide
+&
+dave's stupid rule
+daves stupid rule
+dave's-stupid-rule
+daves-stupid-rule
+&
+di
+directional influence
+directional-influence
+survival di
+survival-di
+combo di
+combo-di
+survival directional influence
+survival directional-influence
+survival-directional-influence
+combo directional influence
+combo directional-influence
+combo-directional-influence
+&
+drop cancel
+drop-cancel
+dropcancel
+drop canceling
+drop-canceling
+dropcanceling
+drop cancelling
+drop-cancelling
+dropcancelling
+&
+edge dashing
+edge dash
+edgedashing
+edgedash
+edge-dashing
+edge-dash
+&
+edgeguard
+edge-guard
+edge guard
+edgeguarding
+edge-guarding
+edge guarding
+intercept
+intercepting
+&
+edge hogging
+edge-hogging
+edgehogging
+edge hog
+edge-hog
+edgehog
+ledge hogging
+ledge-hogging
+ledgehogging
+ledge hog
+ledge-hog
+ledgehog
+&
+fadc
+fa dc
+focus attack dash cancel
+focus-attack-dash-cancel
+focus attack dash canceling
+focus-attack-dash-canceling
+focus attack dash cancelling
+focus-attack-dash-cancelling
+&
+fair
+afa
+f-air
+f air
+fairing
+f-airing
+f airing
+fair-ing
+f-air-ing
+f air-ing
+forward aerial
+forward-aerial
+front air
+front-air
+front air attack
+front-air-attack
+front midair attack
+front-midair-attack
+&
+footstool
+footstooling
+foot-stool
+foot-stooling
+foot stool
+foot stooling
+springboard jump
+springboard jumping
+spring-board jump
+spring-board jumping
+springboard-jump
+springboard-jumping
+spring-board-jump
+spring-board-jumping
+steppingstone jump
+steppingstone jumping
+stepping-stone jump
+stepping-stone jumping
+stepping stone jump
+stepping stone jumping
+steppingstone-jump
+steppingstone-jumping
+stepping-stone-jump
+stepping-stone-jumping
+stepping stone-jump
+stepping stone-jumping
+&
+for glory
+for-glory
+forglory
+&
+fox-trotting
+fox trotting
+foxtrotting
+fox-trot
+fox trot
+foxtrot
+&
+free
+&
+gatling combo
+&
+gentleman
+&
+gentleman's rule
+gentlemans rule
+gentleman rule
+gentlemen's rule
+gentlemens rule
+gentlemen rule
+&
+gimp
+gimping
+&
+glancing blow
+glancing-blow
+phantom hit
+phantom-hit
+chip
+&
+glide toss
+glidetoss
+glide-toss
+glide tossing
+glidetossing
+glide-tossing
+&
+haxdash
+ledge dash stall
+ledge-dash-stall
+ledgedash stall
+ledgedash-stall
+ledge dashstall
+ledge-dashstall
+&
+hilldash
+hill dash
+hill-dash
+hilldashing
+hill dashing
+hill-dashing
+&
+hitlag
+hit lag
+hit-lag
+freeze frame
+freeze-frame
+freezeframe
+freeze frames
+freeze-frames
+freezeframes
+impact stall
+impact-stall
+impactstall
+&
+hoo-hah
+hoo-ha
+hoo-haa
+hoo hah
+hoo ha
+hoo haa 
+hoohah
+hooha
+hoohaa
+haa haa
+hah hah
+ha ha
+haa-haa
+hah-hah
+ha-ha
+haahaa
+hahhah
+haha
+robo-hoo-hah
+robo-hoo-ha
+robo-hoo-haa
+robo hoo hah
+robo hoo ha
+robo hoo haa 
+robohoohah
+robohooha
+robohoohaa
+robo haa haa
+robo hah hah
+robo ha ha
+robo-haa-haa
+robo-hah-hah
+robo-ha-ha
+robohaahaa
+robohahhah
+robohaha
+bleep bloop
+bleep-bloop
+bleepbloop
+beep boop
+beep-boop
+beepboop
+&
+hurtbox
+hurt box
+hurt-box
+hurtboxes
+hurt boxes
+hurt-boxes
+hurtbubble
+hurt bubble
+hurt-bubble
+hurtbubbles
+hurt bubbles
+hurt-bubbles
+&
+hyrule jump
+hyrule-jump
+temple crossing
+temple-crossing
+&
+iasa frames
+iasa
+interruptibility
+&
+jab cancel
+jabcancel
+jab-cancel
+jab canceling
+jab cancelling
+jabcanceling
+jabcancelling
+jab-canceling
+jab-cancelling
+jab fake
+jabfake
+jab-fake
+jab faking
+jabfaking
+jab-faking
+&
+john
+johns
+johning
+no johns
+jon
+joning
+jhon
+jhoning
+no jons
+no jhons
+&
+jump
+jumping
+hop
+hopping
+&
+jump cancel throw
+jump canceled throw
+jump cancelled throw
+jump cancel throwing
+jump canceled throwing
+jump cancelled throwing
+jump-cancel-throw
+jump-canceled-throw
+jump-cancelled-throw
+jump-cancel-throwing
+jump-canceled-throwing
+jump-cancelled-throwing
+jct
+&
+jump-canceled grab
+jump cancel grab
+jump cancel grabbing
+jump canceled grabbing
+jump canceled grab
+jump-cancel grabbing
+jump-canceled grabbing
+jump-canceled grab
+jump-cancel-grab
+jump-cancel-grabbing
+jump-canceled-grabbing
+jump-canceled-grab
+jump-cancelled grab
+jump cancelled grabbing
+jump cancelled grab
+jump-cancelled grabbing
+jump-cancelled grab
+jump-cancelled-grabbing
+jump-cancelled-grab
+jc'd grab
+jc grab
+jcd grab
+jc'd-grab
+jc-grab
+jcd-grab
+jc'd grabbing
+jc grabbing
+jcd grabbing
+jc'd-grabbing
+jc-grabbing
+jcd-grabbing
+&
+jump-canceling
+jump canceling
+jumpcanceling
+jump-cancelling
+jump cancelling
+jumpcancelling
+jump-cancel
+jump cancel
+jumpcancel
+&
+jv
+jv5
+jv4
+jv3
+jv2
+jv5-stock
+jv4-stock
+jv3-stock
+jv2-stock
+&
+ken combo
+ken comboing
+ken combo-ing
+ken-combo
+ken-comboing
+ken-combo-ing
+&
+l-canceling
+l-cancelling
+l-cancel
+l canceling
+l cancelling
+l cancel
+z-canceling
+z-cancelling
+z-cancel
+z canceling
+z cancelling
+z cancel
+lag cancel
+lag-cancel
+lagcancel
+lag canceling
+lag-canceling
+lagcanceling
+lag cancelling
+lag-cancelling
+lagcancelling
+l button cancel
+l button canceling
+l button cancelling
+l-button cancel
+l-button canceling
+l-button cancelling
+l-button-cancel
+l-button-canceling
+l-button-cancelling
+smooth landing
+smooth-landing
+smoothlanding
+smooth land
+smooth-land
+smoothland
+&
+l-canceled ledge grab
+l-cancelled ledge grab
+l-canceled ledgegrab
+l-cancelled ledgegrab
+&
+ledge-canceling
+ledge-cancelling
+ledge-cancel
+ledge canceling
+ledge cancelling
+ledge cancel
+&
+ledge dash
+ledge-dash
+ledgedash
+ledge dashing
+ledge-dashing
+ledgedashing
+&
+ledge trump
+ledge-trump
+ledgetrump
+ledge trumping
+ledge-trumping
+ledgetrumping
+&
+lock
+locking
+jab lock
+jab locking
+jab-lock
+jab-locking
+jablock
+jablocking
+&
+main
+mains
+maining
+main character
+main characters
+main-character
+main-characters
+&
+mang0
+mango
+&
+meteor smash
+meteor-smash
+meteorsmash
+meteor smashing
+meteor-smashing
+meteorsmashing
+meteor
+meteoring
+&
+momentum canceling
+momentum cancelling
+momentum cancel
+momentum-canceling
+momentum-cancelling
+momentum-cancel
+&
+monando
+&
+money match
+money-match
+moneymatch
+cash battle
+cash combat
+cash kerfuffle
+currency kerfuffle
+capital kerfuffle
+currency combat
+currency conflict
+salary struggle
+salary skirmish
+bill bout
+bill brawl
+currency clash
+capital clash
+capital combat
+capital conflict
+wage war
+monetary melee
+fund feud
+fund fisticuffs
+finance fight
+dough dispute
+cheese clash
+cheese kerfuffle
+cheese combat
+cheese conflict
+treasure tussle
+&
+moonwalk
+moon walk
+moon-walk
+moonwalking
+moon walking
+moon-walking
+&
+nair
+ana
+n-air
+n air
+nairing
+n-airing
+n airing
+nair-ing
+n-air-ing
+n air-ing
+neutral aerial
+neutral-aerial
+neutral air
+neutral-air
+neutral air attack
+neutral-air-attack
+neutral midair attack
+neutral-midair-attack
+&
+nerf
+nerfing
+nerfed
+&
+neutral game
+neutral
+&
+one-hit ko
+one-hit-ko
+one hit ko
+one hit-ko
+one hit knock out
+one hit knock-out
+one-hit knock-out
+one-hit-knock-out
+oh ko
+oh-ko
+ohko
+&
+pivoting
+pivot
+da dashing
+da dash
+da-dashing
+da-dash
+&
+pc drop
+pc-drop
+pcdrop
+pc dropping
+pc-dropping
+pcdropping
+turn around ledge grab
+turn around ledgegrab
+turn around ledge-grab
+turnaround ledge grab
+turnaround ledgegrab
+turnaround ledge-grab
+turn around-ledge grab
+turn around-ledgegrab
+turn around-ledge-grab
+turnaround-ledge grab
+turnaround-ledgegrab
+turnaround-ledge-grab
+turn-around-ledge grab
+turn-around-ledgegrab
+turn-around-ledge-grab
+turn around ledge grabbing
+turn around ledgegrabbing
+turn around ledge-grabbing
+turnaround ledge grabbing
+turnaround ledgegrabbing
+turnaround ledge-grabbing
+turn around-ledge grabbing
+turn around-ledgegrabbing
+turn around-ledge-grabbing
+turnaround-ledge grabbing
+turnaround-ledgegrabbing
+turnaround-ledge-grabbing
+turn-around-ledge grabbing
+turn-around-ledgegrabbing
+turn-around-ledge-grabbing
+&
+platform cancel
+platform-cancel
+platformcancel
+platform canceling
+platform-canceling
+platformcanceling
+platform cancelling
+platform-cancelling
+platformcancelling
+&
+playstation allstars
+playstation all stars
+playstationallstars
+playstation all-stars
+playstation-allstars
+playstation-all-stars
+&
+powershield
+power shield
+power-shield
+powershielding
+power shielding
+power-shielding
+perfectshield
+perfect shield
+perfect-shield
+perfectshielding
+perfect shielding
+perfect-shielding
+justshield
+just shield
+just-shield
+justshielding
+just shielding
+just-shielding
+&
+power shield canceling
+power shield cancelling
+power shield cancel
+power shield-canceling
+power shield-cancelling
+power shield-cancel
+power-shield canceling
+power-shield cancelling
+power-shield cancel
+power-shield-canceling
+power-shield-cancelling
+power-shield-cancel
+powershield canceling
+powershield cancelling
+powershield cancel
+&
+project m
+pm
+p:m
+project: m
+&
+rage
+rage effect
+rage-effect
+the rage effect
+the-rage-effect
+&
+recovery
+recover
+recovering
+&
+reverse aerial rush
+reverse aerial rushing
+reverse aerial-rush
+reverse aerial-rushing
+reverse-aerial rush
+reverse-aerial rushing
+reverse-aerial-rush
+reverse-aerial-rushing
+reverse aerialrush
+reverse aerialrushing
+rar
+&
+reverse hilldash
+reverse hill dash
+reverse hill-dash
+reverse-hill-dash
+reverse hilldashing
+reverse hill dashing
+reverse hill-dashing
+reverse-hill-dashing
+&
+sacred combo
+sacred-combo
+the sacred combo
+the-sacred-combo
+&
+sdi
+smash di
+smash-di
+hitstun shuffling
+hit stun shuffling
+hitstun-shuffling
+hit stun-shuffling
+hit-stun-shuffling
+smash directional influence
+smash-directional-influence
+&
+shield break
+shield-break
+shieldbreak
+shield breaking
+shield-breaking
+shieldbreaking
+&
+shield break combo
+shield break-combo
+shield-break combo
+shield-break-combo
+shieldbreak combo
+shieldbreak-combo
+&
+shield grab
+shield-grab
+shieldgrab
+shield grabbing
+shield-grabbing
+shieldgrabbing
+grab out of shield
+grabbing out of shield
+grab outof shield
+grabbing outof shield
+grab-out-of-shield
+grabbing-out-of-shield
+grab-outof-shield
+grabbing-outof-shield
+grab oos
+grabbing oos
+&
+shield platform dropping
+shield platform drop
+shield platform-dropping
+shield platform-drop
+shield-platform dropping
+shield-platform drop
+shield-platform-dropping
+shield-platform-drop
+shield platformdropping
+shield platformdrop
+shield drop
+shield-drop
+shielddrop
+shield dropping
+shield-dropping
+shielddropping
+&
+shine
+shined
+shining
+reflector
+&
+shinespike
+shine-spike
+shine spike
+shinespiking
+shine-spiking
+shine spiking
+&
+short hop
+short-hop
+shorthop
+short hopping
+short-hopping
+shorthopping
+short jump
+short-jump
+shortjump
+short jumping
+short-jumping
+shortjumping
+small jump
+small-jump
+smalljump
+small jumping
+small-jumping
+smalljumping
+low jump
+low-jump
+lowjump
+low jumping
+low-jumping
+lowjumping
+&
+short hop fast fall l-cancel
+shorthop fast fall l-cancel
+short hop fastfall l-cancel
+shorthop fastfall l-cancel
+short hop fast fall l cancel
+shorthop fast fall l cancel
+short hop fastfall l cancel
+shorthop fastfall l cancel
+short hop fast fall l-canceling
+shorthop fast fall l-canceling
+short hop fastfall l-canceling
+shorthop fastfall l-canceling
+short hop fast fall l canceling
+shorthop fast fall l canceling
+short hop fastfall l canceling
+shorthop fastfall l canceling
+short hop fast fall l-cancelling
+shorthop fast fall l-cancelling
+short hop fastfall l-cancelling
+shorthop fastfall l-cancelling
+short hop fast fall l cancelling
+shorthop fast fall l cancelling
+short hop fastfall l cancelling
+shorthop fastfall l cancelling
+shffl
+shffling
+shffl'ing
+shuffle
+shuffling
+&
+sm4sh
+smash 4
+ssb4
+super smash bros. 4
+super smash bros. for nintendo 3ds/wii u
+super smash bros. for nintendo 3ds
+super smash bros. for nintendo wii u
+super smash bros 4
+super smash bros for nintendo 3ds/wii u
+super smash bros for nintendo 3ds
+super smash bros for nintendo wii u
+&
+sticky walk
+stickywalk
+sticky-walk
+sticky walking
+stickywalking
+sticky-walking
+&
+taunt
+taunting
+finishing pose
+finishing-pose
+appeal
+&
+taunt canceling
+taunt cancelling
+taunt cancel
+taunt-canceling
+taunt-cancelling
+taunt-cancel
+tauntcanceling
+tauntcancelling
+tauntcancel
+&
+team wobble
+team wobbling
+team-wobble
+team-wobbling
+teamwobble
+teamwobbling
+&
+tech
+teching
+breakfall
+breakfalling
+break fall
+break falling
+break-fall
+break-falling
+ukemi
+breaking your fall
+break your fall
+passive
+&
+tech-chasing
+tech chasing
+techchasing
+tech-chase
+tech chase
+techchase
+&
+thunders combo
+thunder's combo
+thunders' combo
+thunder combo
+thunders comboing
+thunder's comboing
+thunders' comboing
+thunder comboing
+&
+tilt
+tilting
+tilts
+power attack
+power-attack
+powerattack
+power attacks
+power-attacks
+powerattacks
+power attacking
+power-attacking
+powerattacking
+strong attack
+strong-attack
+strongattack
+strong attacks
+strong-attacks
+strongattacks
+strong attacking
+strong-attacking
+strongattacking
+&
+uair
+u-air
+up air
+up-air
+up aerial
+up-aerial
+up aerial attack
+up-aerial attack
+up-aerial-attack
+&
+up-b cancel
+up-b canceling
+up-b cancelling
+up b cancel
+up b canceling
+up b cancelling
+up-b-cancel
+up-b-canceling
+up-b-cancelling
+&
+up special
+up-special
+upspecial
+up b
+up-b
+upb
+up bing
+up-bing
+upbing
+up b'ing
+up-b'ing
+upb'ing
+up special move
+up-special-move
+&
+wall infinite
+wall-infinite
+wallinfinite
+wall infinites
+wall-infinites
+wallinfinites
+infinite
+infinites
+&
+wall of pain
+wall-of-pain
+fence of pain
+fence-of-pain
+wop
+&
+wavecheat
+wave cheat
+wave-cheat
+wavecheating
+wave cheating
+wave-cheating
+&
+wavedash
+wave dash
+wave-dash
+wavedashing
+wave dashing
+wave-dashing
+&
+waveland
+wavelanding
+wave-land
+wave-landing
+wave land
+wave landing
+&
+waveshine
+wave shine
+wave-shine
+waveshining
+wave shining
+wave-shining
+&
+waveshine infinite
+wave-shine infinite
+wave shine infinite
+&
+wectoring
+wector
+&
+wobbling
+wobble
+wobbled
+&
+zair
+zairing
+zair-ing
+grab aerial
+grab-aerial
+grab air
+grab-air
+&
+zero-to-death combo
+zero-to-death comboing
+zero to death combo
+zero to death comboing
+0-to-death combo
+0-to-death comboing
+0 to death combo
+0 to death comboing
+zero-death
+zero death
+zero-deathing
+zero deathing
+zero-death'ing
+zero death'ing
+0-death
+0 death
+0-deathing
+0 deathing
+0-death'ing
+0 death'ing

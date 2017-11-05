@@ -1,0 +1,916 @@
+&
+20xx
+20XX is a hypothetical future world popularized by pro Smash player Hax where everybody plays frame-perfectly and Fox is the only viable character to play. Since the only thing
+that determines who wins is port priority, the Rock-Paper-Scissors meta has blossomed and has become the only real competitive part of Melee. The term 20XX is a nod to Megaman. 20XX
+is also a popular mod pack for Super Smash Bros. Melee.  Background for the joke is at [SmashWiki](http://www.ssbwiki.com/Smasher:Hax#2013:_Turn_to_the_Dark_Side_.2820XX.29).
+&
+aerial glide toss
+The Aerial Glide Toss (Often abbreviated to AGT) is a technique in Super Smash Brothers: Melee and Project: M.
+This technique involves cancelling the initial frames of an airdodge into an item toss, which allows the player to gain a burst of momentum whilst throwing the item. It's important to
+note there is a lot more distance gained from an AGT in P:M than in Melee.
+A GIF of the technique can be found [here](http://gfycat.com/AdventurousDefiantEyelashpitviper), and more info can be found at the [SmashWiki](http://www.ssbwiki.com/glide_toss),
+where this bot got its info.
+&
+autocancel
+Auto-canceling is the act of landing during the beginning or ending frames of an aerial attack, thereby circumventing the landing lag that would have occurred had the character instead
+landed during the middle of that attack's animation.
+Auto-canceling an attack produces no more landing lag than a regular landing from an ordinary jump, whereas landing during the middle of an aerial attack almost always results in a
+significant delay before the character can act (raise a shield, jump, dodge, etc.) again. Most aerial attacks can be auto-cancelled during both the first few frames and the last few
+frames of the attack's animation; however, some attacks cannot be auto-cancelled at the start, at the end, or even at all. Each individual aerial attack for every character has a
+specific auto-cancelling window (or lack thereof) that must be memorized and practiced.
+A GIF of the tech can be found [here](http://gfycat.com/SeriousBlandDeermouse) and more info can be found at the [SmashWiki](http://www.ssbwiki.com/Auto_cancel),
+where this bot got its info.
+&
+autolanding
+Autolanding is a technique for Super Smash Bros. Brawl that consists of attacking immediately upon landing, without receiving any landing lag.
+The technique is performed by holding down while jumping, and when the player is at the same level of the platform, they must let go of down and perform any attack.
+This technique can only be performed on platforms that are considered to be moving, specifically the stages below.
+A GIF of the tech can be found [here](http://www.gfycat.com/ZanyDisfiguredLabradorretriever) and more info can be found at the [SmashWiki](http://www.ssbwiki.com/Autolanding),
+where this bot got its info.
+&
+bat dropping
+Bat dropping is a technique used primarily in the Home-Run Contest minigame to rack up very high damage on Sandbag.
+It is the act of dropping the bat over Sandbag, then hitting the bag with a move that does not send Sandbag flying,
+usually a meteor smash to hit the bag back into the ground, or some weak attack that negates the knockback of the bat drop.
+A GIF of the tech can be found [here](http://gfycat.com/GregariousImaginaryItaliangreyhound) and more info can be found at the [SmashWiki](http://www.ssbwiki.com/Bat_dropping),
+where this bot got its info.
+&
+bdacus
+The Buffered dash attack canceled up smash (shortened to BDACUS) is another variant of DACUS that has different inputs and input times. A BDACUS will result in a normal DACUS, but it
+will slide slightly further and has to be inputted during the ending lag of another move. Every character can use this technique but only characters that have an effective DACUS will
+get some usefulness out of it. It requires a player to use a move that will end on the ground and have the normal ending lag of 10 frames or use a spot dodge. In this small amount of
+time, the control stick has to be tapped forward then returned to its neutral state followed by two upward taps on the C-Stick. A BDACUS has no frames for the dash attack and will
+instead only come out as an up smash with great momentum.
+A GIF of the tech can be found [here](http://www.gfycat.com/IndolentPerfumedIndianabat) and more info can be found at the [SmashWiki](http://www.ssbwiki.com/Dash_attack_cancelled_up_smash),
+where this bot got its info.
+&
+better nerf greninja
+A dank meme coined by the smash community.
+The origin comes from the League of Legends community concerning the heavy nerfs of a character named [Irelia](http://leagueoflegends.wikia.com/wiki/Irelia).
+Irelia recived nerfs in several patches, approximately 10-20 in total.  While larger problems remained in the game, Irelia just kept getting nerfed.  Eventually people started saying
+"better nerf irelia" as a joke in the aspect of making fun of the thought process being made in balance changes.
+For example: "X is overpowered... better nerf Irelia", with X being not related to Irelia. The smash community took this phrase in an almost identical way.  Greninja was nerfed in
+consecutive patches, there were bigger problems but Greninja continued to be nerfed, and the phrase was used the same way it had been used for Irelia.
+"X is overpowered... better nerf Greninja", with X being unrelated to Greninja.
+&
+boost grab
+Boost grabbing is a technique in which the momentum from a character's dash attack is transferred into a dash grab. The result is a longer ranged dash grab.
+Discovered in Super Smash Bros. Melee, the boost grab is a very quick and useful form of dash attack canceling. By completely canceling the dash attack, the user suffers far less lag.
+To perform the boost grab, the player must first dash. Then, press the attack button while dashing to perform a dash attack, then press the grab button
+immediately within the first frame to grab.
+A GIF of the tech can be found [here](http://www.gfycat.com/SarcasticVictoriousDevilfish) and more info can be found at the [SmashWiki](http://www.ssbwiki.com/Boost_grab), where this 
+bot got its info.
+&
+bowsercide
+Bowser can use his side B, and in turn can kill the other player who is grabbed as well as himself, being a suicide. Bowsercides are different in Melee and Project M, and Brawl and
+Smash 4.
+"Bowsercide" in Melee and Project M is executed by grabbing an airborne opponent with Koopa Klaw and falling to the blast line with them in hand. Not exceptionally useful; the move can
+be escaped, and Bowser is unlikely to recover if the opponent does so.
+"Bowsercide" in Brawl is executed with Bowser's side b move, Flying Slam. Bowser grabs the opponent and dives off the side of the stage. The move cannot be escaped, but as the
+lower-damage player has more control over the pair's flight, it is not useful for evening out percentages. While the technique initially returned for Super Smash Bros. for Nintendo 3DS,
+version 1.0.4 changed Flying Slam so that Bowser is KO'd before the opponent when the move is performed onto a blast line, making it less useful in Smash 4 than in Brawl.
+A GIF of this tech is currently unavailable.  If you have one that you think would fit, please message kirby_freak.
+More info can be found at the [SmashWiki](http://www.ssbwiki.com/Bowsercide), where this bot got its info.
+&
+brawl
+Brawl is the third official installment of the Smash Bros. franchise.
+Brawl removed Pichu, Mewtwo, Roy and Dr. Mario from the roster, and added Diddy Kong, Ike, King DeDeDe, Lucas, Meta Knight, Olimar, Pit, Pokémon Trainer, Zero Suit Samus, and Wario, 
+along with new mechanics such as tripping and Final Smashes.
+It is also the last official Smash Bros. game Ice Climbers, Snake, Squirtle, Ivysaur and Wolf have been in.
+&
+cave of life
+A cave of life is an unofficial term for an enclosed area in a stage where characters can survive to much higher percentages than usual. These areas have an impassable platform above
+the area, and can contain other walls, which allows characters to tech and survive potentially fatal blows. Even without teching, characters will bounce off the ceiling, which absorbs
+some of the knockback, and allows the character to survive longer than usual.
+Caves of life are often considered a degenerative aspect of a stage for competitive play. Besides allowing characters to survive attacks well beyond what is usually possible, they
+often provide overly powerful camping positions (due to their enclosed nature and the difficulty of KOing characters within them), and they produce an over centralisation on teching
+(players skilled at teching receive a disproportional advantage from them in comparisons to players who can't tech so well). As such, most stages with them are universally banned from
+tournaments, and stages with more minor caves of life are rarely legal.
+A GIF of this tech is currently unavailable.  If you have one that you think would fit, please message kirby_freak.
+More info can be found at the [SmashWiki](http://www.ssbwiki.com/Cave_of_life), where this bot got its info.
+&
+chain grab
+A chain grab, also referred to as a chain throw, refers to a series of grabs and throws that the victim cannot escape. Generally, a player throws the opponent a
+specific direction (most commonly down or forward), chases the opponent's directional influence, and grabs the opponent while they are still in midair and before they can tech. Sheik
+and the Ice Climbers are examples of characters who rely heavily on chain grabs. The usefulness of chain grabbing in Super Smash Bros. Brawl has been reduced with the addition of
+tripping. Generally, fastfallers, heavyweights, and large characters tend to be more vulnerable to chain grabs than floaty characters, lightweights, and smaller characters. Some
+circumstances can enable a chain grab to be a zero-to-death combo. The Ice Climbers are particularly potent at this.
+A GIF of the tech can be found [here](http://www.gfycat.com/ExemplaryOptimalFirecrest) and [here](http://www.gfycat.com/DamagedDopeyIndianhare), and more info can be found at the 
+[SmashWiki](http://www.ssbwiki.com/Chain_grab), where this bot got its info.
+&
+charlie walk
+The Charlie walk, discovered in 2006 by Fuzzyness (whose real name is Charles), is an extension of the sticky walk. The technique is executed by performing a sticky walk and then
+initiating the turnaround (called "TURNRUN" in the animation debug overlay) animation by moving the control stick in the direction opposite the character is facing.
+A GIF of the tech can be found [here](http://www.gfycat.com/InstructiveCandidBactrian) and more info can be found at the [SmashWiki](http://www.ssbwiki.com/Moonwalk),
+where this bot got its info.
+&
+crawl-sliding
+Crawl-sliding is an advanced technique in Brawl which allows the player to slide across the ground backwards for a short period of time. This was first discovered by Smashboards member
+lilscrappy561, who attempted to moonwalk as in Melee by just walking instead of dashing. This can
+only be done with characters that can crawl. To do this, the player must tilt the control stick or d-pad so the character will walk. Once the character is walking, the player must then
+make a half circle in the opposite direction and let go of the analog stick or pad. The character will then slide for a short distance. It is easiest to do this with Luigi.
+A GIF of the tech can be found [here](http://www.gfycat.com/IncompatibleVengefulAsianpiedstarling) and more info can be found at the [SmashWiki](http://www.ssbwiki.com/Chain_grab),
+where this bot got its info.
+&
+comcast can suck it
+I was minding my own business, dutifully working on answering (or, not answering half the time...) /r/smashbros' questions, when everything went black.  When I woke up two days later,
+kirby_freak was yelling about how someone named "Comcast guy" had unplugged me without asking to install a TV box.  When he informed /r/smashbros about what happened, the phrases
+"Comcast can suck it" and "screw you Comcast guy" were thrown around.
+&
+dacus
+The dash attack canceled up smash (abbreviated to DACUS, also referred to as Boost Smashing) is an advanced technique in Super Smash Bros. Brawl and Super Smash Bros. 4
+(prior to patch 1.0.4). It is similar to the slide smash, but more difficult to pull off and has the potential to be much longer. As its name implies, it is performed by initiating a
+dash attack with the C-Stick (or D-Pad if the player is using the Nunchuk; this is much easier when the C-Stick or D-Pad is angled downwards) and immediately afterward canceling the
+dash attack with an up-smash command. Any character can do it, but only certain characters gain a noteworthy addition to their attack strategies because of it. The furthest DACUS
+requires precise timing and is timed differently for each character.
+A GIF of the tech can be found [here](http://www.gfycat.com/TemptingColorfulCoelacanth) and more info can be found at the [SmashWiki](http://www.ssbwiki.com/Dash_attack_cancelled_up_smash),
+where this bot got its info.
+&
+dair
+The dair, an abbreviation of down aerial, is an aerial attack that is performed in midair by pressing the attack button and tilting the control stick or D-Pad downwards.  It can also
+be used by tilting the C-stick down on a GameCube controller. Every character,
+in every incarnation of Smash, has a dair.  Dairs can be L-Canceled in Melee and Project M to reduce their landing lag. Many dairs are either meteor smashes, true spikes, or drills.
+A GIF of the tech can be found [here](http://gfycat.com/SerpentineFatherlyAlaskankleekai) and more info can be found at the [SmashWiki](http://www.ssbwiki.com/Down_aerial),
+where this bot got its info.
+&
+dash-canceling
+Dash-canceling is a technique in the Super Smash Bros. games that, hence the name, cancels a character's dashing animation. There are several ways to do this:
+jumping, crouching (Melee only, called run-canceling), shielding, pivoting, up smash, down smash (Melee only), and special attacks.
+A GIF of this tech is currently unavailable.  If you have one that you think would fit, please message kirby_freak.
+More info can be found at the [SmashWiki](http://www.ssbwiki.com/Dash_cancel), where this bot got its info.
+&
+dash pivot cancel
+A dash pivot cancel, abbreviated as DPC, is an advanced technique in Super Smash Bros. Brawl that allows a character to immediately end their dash pivot animation, canceling into a sort
+of slide in the new direction. It can be performed near the end of the pivot animation of a dash by pressing the control stick or d-pad in the original direction of the character's dash,
+or simply crouching. Depending on how hard either one is pressed, this can have two different effects. If the stick or pad is smashed in the original direction, the character will
+initiate a new dash in the original direction, whereas if the stick or pad is only lightly tilted, the character will simply turn to face their original direction while sliding a very
+small distance backwards. It is this version of the cancel that is useful competitively, as some characters have lower traction on their dash pivots, giving them a better sliding
+distance to work with. The best way to perform smash attacks during these maneuvers is to use the C-stick, in combination with the Z or A button should the player wish to charge. This
+prevents the cancel side from being potentially altered with an accidental directional input.
+A GIF of this tech is currently unavailable.  If you have one that you think would fit, please message kirby_freak.
+More info can be found at the [SmashWiki](http://www.ssbwiki.com/Dash_pivot_cancel), where this bot got its info.
+&
+dash dance
+The dash-dance is an advanced technique in the Super Smash Bros. games. Performed by rapidly tapping the analog stick left and right while on the ground, it cancels out the character's
+initial dashing animation with another animation in the opposite direction, causing the character to quickly and repeatedly dash to the right and left in a short distance.
+A GIF of the tech can be found [here](http://www.gfycat.com/ThankfulFlawlessCreature) and more info can be found at the [SmashWiki](http://www.ssbwiki.com/Dash-dancing),
+where this bot got its info.
+&
+dash shining
+Dash shining is a technique in Super Smash Bros Brawl that allows Fox to perform a combo using consecutive shines. It is performed by a foxtrot (initiating a single dash input),
+followed by a shine. It works on mid and heavy weight characters, as they are not knocked down by the shine.
+A GIF of this tech can be found [here](https://gfycat.com/LoneKindheartedAdamsstaghornedbeetle) and more info can be found at the [SmashWiki](http://www.ssbwiki.com/Dash_shine),
+where this bot got its info.
+&
+dash-sliding
+Dash-sliding, a term coined by Clan, Hoboking, and Legend of Brawlcentral, is a variant of Fox-trotting, and is described as a constant state of dashing. It is done by mashing the
+control stick in a direction, and then returning it to neutral, then repeating, similar to a Foxtrot. It differs from a foxtrot in that when doing a Foxtrot, a dash-dance was needed to
+change directions. In a dash slide, it is possible to shield cancel out of it. Also, since most characters hunch over in the animation, the player is a smaller target for an added bonus.
+This can be used as a mindgame, or as a speed advantage over the player's opponent.
+A GIF of this tech is currently unavailable.  If you have one that you think would fit, please message kirby_freak.
+More info can be found at the [SmashWiki](http://www.ssbwiki.com/Fox-trot), where this bot got its info.
+&
+dave's stupid rule
+Dave’s stupid rule is a regulation in effect at most tournaments named after the smasher [Scamp](http://www.ssbwiki.com/Smasher:Scamp). The rule has minor variations, but the point is
+to prevent a player from having a unfair advantage by playing on the same stage multiple times in one set. Basically, the rule states that no stage that has already been played on in
+the set may be picked for another stage in the same set, regardless of what the results where of the previous set. An example being if a player chooses Battlefield first game of a set,
+neither player can go to Battlefield for the rest of the games in that set. There are multiple variations of this rule, such as 'Winner's Variation," which states that a player can't
+choose a stage they have already won on. So if the player had lost on Battlefield that match, he would still be able to go back, but not if he won.
+More info can be found at the [SmashWiki](http://www.ssbwiki.com/Dave's_Stupid_Rule), where this bot got its info.
+&
+di
+DI, or directional influence, is the control the receiver of an attack has over his/her trajectory. Every attack sends a opponent in a direction, but DI can be used to slightly alter
+the original trajectory. This helps with surviving high power attacks like Fox's up smash (known as survival DI), or getting out of combos such as Jigglypuff's up-throw to rest combo
+(on fast fallers) in Melee (known as combo DI). It can help a character move in a path to not cross the blastzones where, in a situation with no DI, they would've died. "Poor DI"
+occurs when the player DI's in a way that
+provides the shortest distance between them and the blastzone, and most likely causes them to die. To DI, you hold a direction perpendicular to the default trajectory. For example, if
+you're hit right you should DI up or down (optimally up for recovery), not right or left. DI is not altering how far you are hit, but rather the trajectory you're hit in. Keep in mind
+that the angle you DI in is calculated while you're in hitlag, not while flying.
+A GIF of the tech can be found [here](http://gfycat.com/DeadCoarseFlamingo) and more info can be found at the [SmashWiki](http://www.ssbwiki.com/Directional_influence),
+where this bot got its info.
+&
+drop cancel
+Drop canceling is essentially the fastest way to use an aerial attack, leaving only one frame before the aerial attack's hitbox appears. To perform a drop cancel, drop through a
+platform that the character is standing on. Then, exactly one frame afterwards, use any aerial attack and L-cancel. If done correctly, one should be in the landing animation of the
+aerial attack on the platform that was dropped from. It is worth noting that while this technique is in both Melee and Smash 64, it is incredibly difficult to perform in Smash 64.
+Brawl contains a similar technique called platform canceling.
+A GIF of this tech is currently unavailable.  If you have one that you think would fit, please message kirby_freak.
+More info can be found at the [SmashWiki](http://www.ssbwiki.com/Drop_cancel), where this bot got its info.
+&
+edge dashing
+Edge dashing is basically starting and ending an initial dash at an edge, without falling off. The player should get close to the ledge, and tap as fast as possible towards the ledge.
+One way to do it is to hit the control stick to the desired direction, while letting one's finger slide off so the control stick returns to its original position. The character will
+start a dash for one frame without falling off the edge of the platform.
+A GIF of this tech is currently unavailable.  If you have one that you think would fit, please message kirby_freak, and more info can be found at the
+[SmashWiki](http://www.ssbwiki.com/Edge_dashing), where this bot got its info.
+&
+edgeguard
+Edge-guarding, also known as edgeguarding, and intercepting in Melee, is the attempt to prevent an off-stage recovering enemy from reaching the stage. Players can achieve this in many
+ways, and the struggle between an edge-guarder and their enemy leads to many strategies and mindgames. This strategy exists in all Smash games.
+A GIF of the tech can be found [here](https://gfycat.com/NarrowRightHornbill) and more info can be found at the [SmashWiki](http://www.ssbwiki.com/Edge-guarding),
+where this bot got its info.
+&
+edge hogging
+Edge-hogging is an edge-guarding tactic in the first three games of the Super Smash Bros. series, where a character holds onto a ledge so that a recovering opponent cannot grab it,
+taking advantage of the fact that only one character may generally hold onto a ledge at a time.
+A GIF of the tech can be found [here](http://gfycat.com/TangibleGrizzledAntlion) and more info can be found at the [SmashWiki](http://www.ssbwiki.com/Edge_hog),
+where this bot got its info.
+&
+fadc
+The Focus Attack Dash Cancel, or FADC, is a technique exclusive to Ryu in Super Smash Brother for the WiiU and 3DS. It involves using his Down B move, Focus Attack, and double tapping
+the analogue stick either right or left while it's charging. This will give you a short boost in the direction you tapped. This can also be done in the air to change your momentum.
+The FADC technique originates from Street Fighter 4, where it functions in a very similar way.
+A GIF of this tech is currently unavailable.  If you have one that you think would fit, please message kirby_freak, and more info can be found at the
+[Official Smash Website](http://www.smashbros.com/us/characters/ryu.html), where this bot got its info.
+&
+fair
+The fair, an abbreviation of forward aerial, is an aerial attack that is performed in midair by pressing the attack button and tilting the control stick or D-Pad in the direction the
+character is currently facing.  It can also be used by tilting the C-stick forwards on a GameCube controller. Every character,
+in every incarnation of Smash, has a fair.  Fairs can be L-Canceled in 64, Melee, and Project M to reduce their landing lag.
+A GIF of the tech can be found [here](http://www.gfycat.com/PlayfulRealisticIndianglassfish) and more info can be found at the [SmashWiki](http://www.ssbwiki.com/Forward_aerial),
+where this bot got its info.
+&
+footstool
+Footstooling (also known as springboard jumping or stepping stone jumping) is a technique where your character jumps off of the head of another character. To perform this is Brawl and
+Smash 4 you simply need to jump when directly over a character.
+In Project M you need to press a taunt button over the character instead. If performed in the air it will put the footstooled character into a state of uninterruptable tumble.
+If performed on the ground the footstooled character will briefly freeze as the footstool is completed. This technique can be performed between 2 and 6 times depending on the falling
+speed of the character performing it, with characters with faster fall speeds being able to perform less in a row. A footstool cannot be performed on a team-mate unless team attack is
+turned on.
+A GIF of the tech can be found [here](http://giant.gfycat.com/DirtyAncientCornsnake.gif) and more info can be found at the [SmashWiki](http://www.ssbwiki.com/Footstool_Jump),
+where this bot got its info.
+&
+for glory
+For Glory is a online mode in Sm4sh. During this mode, players can fight against other random players in either 1v1, 2v2, or a FFA. All matches are fought with no items/customization
+on Final Destination or FD versions of other stages, called omega stages. The rules are 2 stocks 5 minutes for 1v1, and 2 minute time battles for 2v2 and FFA. If a player disconnects
+mid-match, he/she will be replaced with a low level AI. 
+More info can be found at the [SmashWiki](http://www.ssbwiki.com/For_Glory), where this bot got its info.
+&
+fox-trotting
+Fox-trotting is the technique in all four Super Smash Bros. games that consists of moving along the ground by repeatedly executing characters' initial dash animation, as opposed to
+using their full dash. Since some characters' initial dash animations move them faster than their full dash, these characters are able to run faster with the use of fox-trotting.
+Fox-trotting is predominately used in Super Smash Bros. Melee, and characters with which the technique is most commonly executed are Fox, Captain Falcon, Roy, and Marth.
+A GIF of the tech can be found [here](http://www.gfycat.com/FoolhardyCheapBlackmamba) and more info can be found at the [SmashWiki](http://www.ssbwiki.com/Fox-trot),
+where this bot got its info.
+&
+free
+Free describes someone who is easily beat or is no match against someone. Some people like to use Chillindude and Leffen's Apex 2015 Salty Suite Match.
+A GIF of the tech can be found [here](http://gfycat.com/WhiteOrderlyJaeger) and more info can be found on [Youtube](https://www.youtube.com/watch?v=7i0PUCX7VEw),
+where this bot got its info.
+&
+gatling combo
+The Gatling Combo is similar to the DACUS, but the dash attack is cancelled after the hitbox comes out, meaning that both the dash attack and the up smash have the potential to hit. It
+only gains distance similar to that of a slide smash, with the exception of Snake's. The Gatling Combo is performed by inputting the up smash with a longer delay than for the DACUS.
+Falco, Snake, Wolf, and Wario are currently known to be able to perform the Gatling Combo; however, Snake's slides too far for both the dash attack and the up smash to reliably hit when
+Snake doesn't slide into an edge, and Wario's Gatling Combo will only fully connect at low percents due to the up smash's poor range.
+A GIF of the tech can be found [here](http://www.gfycat.com/NegativeElderlyBelugawhale) and more info can be found at the [SmashWiki](http://www.ssbwiki.com/Dash_attack_cancelled_up_smash),
+where this bot got its info.
+&
+gentleman
+The Gentleman refers to the third hit of Captain Falcon's standing neutral attack combo, when it is not followed by rapid punches.
+There are several methods to perform the Gentleman. The player can perform the third punch by pressing any button in conjunction with the A (Isai finds this easiest to achieve with Z).
+S2J discovered that one can hold down on the control stick after the initial jab and continue the rest of the combo to get the Gentleman. The safest and most guaranteed (but not
+necessarily the easiest) method is to simply allow each jab to complete their animation. However, the first two methods do not work if the jab combo whiffs (even the last method has a
+chance of failing if the first or second jabs whiff), leaving Captain Falcon wide open if the opponent can escape it in time. In the PAL version of Melee, the rapid jab doesn't follow
+the Gentleman by default; three A button presses will default to the Gentleman without continuing with the rapid punches, making the combo much safer on whiff and on hit. This also
+applies in Smash 4, where one can even simply hold the A button to get the Gentleman out of the jab combo.
+A GIF of the tech can be found [here](http://www.gfycat.com/PeskyBitesizedEgg) and more info can be found at the [SmashWiki](http://www.ssbwiki.com/Gentleman),
+where this bot got its info.
+&
+gentleman's rule
+The gentleman's rule is a rule used in most Super Smash Bros. tournaments. It is very simple: if all players in a match agree to go to a banned stage, they are allowed to regardless of
+the regular stage-selection rules. It can also generally refer to all players agreeing to use something banned (even if it is not a stage).
+More info can be found at the [SmashWiki](http://www.ssbwiki.com/Banned_stage), where this bot got its info.
+&
+gimp
+A gimp is the taking of a stock, usually at a low percent, by interrupting/negating a character's recovery, often with a rather weak attack that would not KO the opponent otherwise.
+A GIF of the tech can be found [here](https://gfycat.com/NarrowRightHornbill) and more info can be found at the [SmashWiki](http://www.ssbwiki.com/Gimp), where this bot got its info.
+&
+glancing blow
+A glancing blow, known in Super Smash Bros. Melee as a phantom hit, is the result of a hitbox making insufficient contact with a damageable object – that is, the attack's hitbox does
+not connect deep enough into the target's hurtbox to be considered a solid hit. 
+They mechanic does not exist in Super Smash Bros 64. In Melee glancing blows do half damage with no knockback or flinching, with the attacker not subjected to any freeze frames (but
+the defender is). In Brawl they deal no damage at all and do not produce freeze frames for the defender. Glancing blows appear unchanged from Brawl in Super Smash Bros. 4.
+A GIF of this tech is currently unavailable.  If you have one that you think would fit, please message kirby_freak.
+More info can be found at the [SmashWiki](http://www.ssbwiki.com/Phantom_hit), where this bot got its info.
+&
+glide toss
+Glide tossing is a technique in Super Smash Bros. Brawl that allows a character to throw an item while sliding forward. As with other techniques that cause characters to slide, the technique
+allows characters to move across the stage while being able to use any attack or action.
+To perform a glide toss, the player must grab a throwable item. He/she must then perform a roll and almost immediately (about 6 frames) after, throw the item in any direction. The character
+will then cancel the roll and throw the item, but as the player's momentum is kept from the roll, the character will slide along the ground.
+The traveled distance depends on the character's traction, the direction of roll, and the direction and moment the item was thrown. In general, the later the item is thrown, the bigger the
+glide, as characters have more momentum further into their rolls.
+A GIF of the tech can be found [here](http://www.gfycat.com/IncompleteSeparateBrocketdeer) and more info can be found at the [SmashWiki](http://www.ssbwiki.com/Glide_toss),
+where this bot got its info.
+&
+haxdash
+A Ledge Dash Stall, also known as a Haxdash, is a technique in Super Smash Brothers: Melee and Project: M that involves letting go of a ledge, jumping towards the stage and then
+wavelanding back onto the ledge. If done properly, the user should be fully invincible during the process and cannot take damage.
+This technique is not often used in competitive play, due to the difficulty of performing it consistently and how one missed input can lead to an entire stock being lost. The player
+Hax (Also known as Hax$ or HaxMoney) was one of the most notable users of this technique, leading to the creation of the alternate name.
+A GIF of the tech can be found [here](http://gfycat.com/UnrealisticLittleIbis) and more info can be found at the [SmashWiki](http://www.ssbwiki.com/Ledgestall),
+where this bot got its info.
+&
+hilldash
+A hilldash is a pseudo-wavedash advanced technique for Super Smash Bros. Brawl and Super Smash Bros. 4. It is done by jumping (or already being in the air), then, by whatever method,
+gaining momentum towards a hill or slant in order to land on it and use the momentum to slide across the ground and up the hill. There is another minor technique, called the
+reverse-hilldash, in which the player can slide downwards instead of upwards on a hill. The reverse-hilldash can be performed by any character.
+A GIF of this tech is currently unavailable.  If you have one that you think would fit, please message kirby_freak.
+More info can be found at the [SmashWiki](http://www.ssbwiki.com/Hilldash), where this bot got its info.
+&
+hitlag
+Hitlag, (also known as freeze frames or impact stall), is when the opponent and the attacker will freeze for a period of time after connecting a attack, which is measured in frames. This causes the attack to get
+"stuck" out longer than it would if it hadn't hit anything. The number of freeze frames depends on the attack - weak moves such as Mario's jab have minimal freeze frames, but the freeze
+frames of strong attacks, electric, and/or sweetspotted attacks can last as long as half a second. If a attack is perfect shielded, the attacker suffers hitlag while the defender
+receives none. Hitlag only affects the object that dealt the damage and the defender; everything else in uninterrupted.
+A GIF of this can be found [here](http://gfycat.com/FittingSeveralBlesbok) and more info can be found at the [SmashWiki](http://www.ssbwiki.com/Freeze_frame),
+where this bot got its info.
+&
+hoo-hah
+A hoo-hah is a string executed by throwing your opponent downwards and then hitting them with an up aerial attack. However it is most famously used to describe Diddy Kong's down throw\up
+air in Smash 4 (prior to update 1.0.6). This term was coined by Sonic player StaticManny when he shouted "HOO HAH" during a Smash for Wii U match between Player-1 (using Diddy Kong) and Hungrybox (using Jigglypuff).
+The 'hoo' represents the down throw and the 'hah' represents the up air. StaticManny's shouting became so annoying that he caused Hungrybox to quit the match out of frustration,
+as seen [here.](https://www.youtube.com/watch?v=yB-6oRB4ABo) Other popular variations include the 'robohoohah' or 'bleep bloop' (ROB's down throw up air) and the 'haa haa' (Diddy Kong's
+up throw up air).
+A GIF of this can be found [here](http://gfycat.com/HealthyUnconsciousEuropeanpolecat) and more info can be found at the [SmashWiki](http://www.ssbwiki.com/Diddy_Kong_(SSB4)),
+where this bot got its info.
+&
+hurtbox
+A hurtbox (or hurtbubble) refers to the area on a character determine where a character can be hit by moves. When a move's hitbox overlaps with a character's hurtbox, the move is considered a hit.
+Hurtboxes are invisible, and most of the time match the character's body and animations.
+In 64, the hurtboxes were cuboids, while in the rest of the series they where changed to be more oval shaped. While invisible in actual gameplay, hurtboxes can be seen using
+hacks, and are usually shown in a yellow color. It is worth noting that hitboxes and hurtboxes interact in 3 dimensions, not 2, which is a common misconception.
+A GIF of this can be found [here](http://gfycat.com/SmartArtisticInsect) and [here](http://gfycat.com/BiodegradableLivelyGiantschnauzer),
+and more info can be found at the [SmashWiki](http://www.ssbwiki.com/Hitbox), where this bot got its info.
+&
+hyrule jump
+The Hyrule Jump, sometimes referred to as Temple Crossing, refers to the act of crossing the open space from Temple's upper right ledge to its bottom-most platform. It can be performed
+in Super Smash Bros. Melee, Super Smash Bros. Brawl, and Super Smash Bros. for Wii U.
+A GIF of the tech can be found [here](gfycat.com/MatureMindlessEthiopianwolf) and more info can be found at the [SmashWiki](http://www.ssbwiki.com/Hyrule_Jump),
+where this bot got its info.
+&
+iasa frames
+IASA is an acronym for "Interruptible As Soon As," under the premise of describing moves as "Move X can be interrupted as soon as frame Y." This means that when a move is executed, it
+can be interrupted by another action on a certain frame. Sometimes a move can be interrupted before its animation is fully complete.  This is also known as "interruptibility".
+A GIF of the tech can be found [here](http://gfycat.com/CautiousPlaintiveIridescentshark) and more info can be found at the [SmashWiki](http://www.ssbwiki.com/Interruptibility),
+where this bot got its info.
+&
+jab cancel
+The jab cancel or jab fake is a technique available in three of the four Smash games (all but Smash 4). It is considered a far more potent strategy in Super Smash Bros. Brawl than in
+the other two, and is used to perform quick combos at close ranges. The jab cancel can be performed by any character with a multiple-attack neutral attack jab combo. At any point in the
+combo, before reaching the "final" hit, the player can shield, crouch, or quickly turn around and back to cancel the combo and allow the character to perform other attack moves without
+continuing the combo. Shielding to cancel the jab can be performed in Melee, but due to the longer time it takes for a shield to drop, it is seldom used.
+A GIF of this tech is currently unavailable.  If you have one that you think would fit, please message kirby_freak.
+More info can be found at the [SmashWiki](http://www.ssbwiki.com/Jab_cancel), where this bot got its info.
+&
+jab reset
+A jab reset is a technique in Super Smash Bros. Melee that is performed by jabbing an opponent while they are knocked down. The jab will force the opponent to get up, where the opponent
+can then hit them with almost any move they desire, which is usually utilised to land a KO move. This only works with extremely weak set knockback attacks, or attacks with extremely low
+base knockback at very low percentages, such as the first hit in most jabs. This is because higher knockback attacks will force the opponent into knockback. Unlike a normal getup from
+knockdown, a jab reset induced getup does not have any invincibility frames. Jab resets can also be used to continue a combo on an opponent even after a knockdown.
+A GIF of the tech can be found [here](http://www.gfycat.com/NarrowPlumpGuernseycow) and more info can be found at the [SmashWiki](http://www.ssbwiki.com/Jab_reset),
+where this bot got its info.
+&
+john
+A John is an excuse for a player's underperformance in a Smash Bros. game. It is usually used as a synonym for "excuse". In addition to its use as a noun, the term can
+also be used as a verb, where players can be accused of "Johning". "No Johns" has also seen use, primarily to counter players who are said to be Johning.
+A GIF of this tech can be found [here](http://www.gfycat.com/MediumLoathsomeArctichare). More info can be found at the [SmashWiki](http://www.ssbwiki.com/John),
+where this bot got its info.
+&
+jump
+Jumping is an action that moves a character from the ground into midair. All characters can also jump a second time in midair, providing they are not attacking, air dodging, helpless,
+in hitstun, or have used it already. However, some characters such as Kirby and Jigglypuff have additional jumps.
+A GIF of the tech can be found [here](https://gfycat.com/CelebratedEvilLacewing) and more info can be found at the [SmashWiki](http://www.ssbwiki.com/Jumping),
+where this bot got its info.
+&
+jump cancel throw
+The jump cancel throw (abbreviated JCT) is an advanced technique in Super Smash Bros. Brawl that allows the player to throw an item while sliding a little bit forward, similar to a glide
+toss. It can be performed by any character in the game. The player must have an item in their character's hand, then dash. They must then jump and cancel the dash into a throw. There
+are different frame limits for each character. Basically, the technique is performed by transferring the jump momentum into the toss, which is how the character slides forward.
+Its applications are similar to a glide toss because the player can perform a forward, backward, forward reverse, and a backward reverse JCT. There is a slight difference between the two.
+Characters with a poor glide toss can use this to gain some distance.
+A GIF of this tech is currently unavailable.  If you have one that you think would fit, please message kirby_freak.
+More info can be found at the [SmashWiki](http://www.ssbwiki.com/Jump_cancel_throw), where this bot got its info.
+&
+jump-canceled grab
+A jump-canceled grab (or JC'd grab) is a technique where a character interrupts a dash or run with a jump, which itself is then jump-canceled with a grab during the pre-jump squat.
+This results in the character using their standing grab while maintaining some of their running momentum, the amount of which is based on their current speed and traction.
+A GIF of the tech can be found [here](http://www.gfycat.com/NeglectedHollowCapeghostfrog) and more info can be found at the [SmashWiki](http://www.ssbwiki.com/Jump-canceled_grab),
+where this bot got its info.
+&
+jump-canceling
+Jump-canceling may refer to two different techniques in Super Smash Bros. Melee: canceling a jump by using an attack, or jumping while using the shield.
+The jump-cancel occurs as a result of the pre-jump lag every character has. After the player presses X, Y, or up on the control stick, there is a period of delay, ranging from 3 to 8
+frames, before the player's character actually leaves the ground. During this delay, since the character is grounded, it is possible to execute a few of the character's standing moves.
+These moves are up smash, up B, grab, and the item throw.
+Another usage of the term "jump-cancel" refers to the cancellation of a shield, shine, or another special animation by jumping. Any character but Yoshi may jump directly from the shield.
+Additionally, Fox and Falco can do the same with their shine. The animation achieved by turning around while dashing (after leaving the initial dash animation) can also be jump-canceled.
+A GIF of this tech is currently unavailable.  If you have one that you think would fit, please message kirby_freak.
+More info can be found at the [SmashWiki](http://www.ssbwiki.com/Jump-canceling), where this bot got its info.
+&
+jv
+The term "JV" refers to winning with a fresh stock at 0% damage; for example, a "JV two-stock" means the victor defeated their opponent with one stock remaining at 0% damage,
+meaning the winner had just died but ended the game after spawning without taking any more damage. This is often used for varying levels of bragging rights for skill. For example, JV-two-stocking an opponent shows a
+greater difference of skill than if the player "merely" two-stocked them. Furthermore, a "JV five/four-stock" (winning with all four/three stocks remaining without taking any damage in
+Melee and Brawl, respectively) is considered a perfect game, and successfully performing one shows an extreme difference in skill level or incredible ability of the winner to perfectly
+read the loser's actions, as the loser failed to land even a single hit on the opponent. The terminology was coined and named after Jv3x3 an old school Mid-West player and popularized
+by Ken yelling it at such tournaments as Super Champ Combo and others.
+A GIF of this tech is currently unavailable.  If you have one that you think would fit, please message kirby_freak.
+More info can be found at the [SmashWiki](http://www.ssbwiki.com/Stock#JV), where this bot got its info.
+&
+ken combo
+The ken combo is a spike setup for Marth discovered by Ken, a famous Marth player. The combo itself is: single jump, forward aerial; midair jump, down aerial. However, sometimes the
+chain of neutral airs and forward airs followed by the spike is called a "Ken Combo" due to how effective it is. The spacing of the fair is character dependent, but generally for fast
+fallers you'll want a tipper fair, while for floaties you'll usually want the regular hit. However, the hit you use can change depending on % of your opponent. According to Ken, the
+combo was initially developed in 64 using Falcon's uair into dair. In future games there are several characters that can perform a variation ken combo, such as Wolf or Palutena, but
+these are not considered true ken combos since the opponent has more options than DI to escape, such as air dodging or attacking.
+A GIF of the tech can be found [here](http://gfycat.com/VillainousLinedBumblebee) and more info can be found at the [SmashWiki](http://www.ssbwiki.com/Ken_Combo),
+where this bot got its info.
+&
+l-canceling
+L-canceling (an abbreviation of lag canceling or L button canceling, also called smooth landing on the official Super Smash Bros. website) is a technique in Super Smash Bros., Super
+Smash Bros. Melee, and Project M that allows characters to act faster than usual when landing in the middle of an aerial attack. L-cancelling is done by pressing a shield button 11 frames or fewer
+before landing during an aerial attack in Smash 64 (the grab button also works because of its unique properties), or by pressing the shield button 1 to 7 frames before landing in Melee.
+Only regular aerial attacks can be L-cancelled; special moves that have landing lag cannot. If an attack is auto-cancelled then L-cancelling has no effect. All aerials can be cancelled
+except Mr. Game & Watch's nair, bair and uair.
+Better known as Z-cancelling as the Z button is the shield button, L-cancelling in Smash 64 is performed by pressing Z 11 or fewer frames before landing.
+L-cancelling in Melee is performed by pressing L, R or Z up to 7 frames before landing.
+A GIF of the tech can be found [here](http://www.gfycat.com/RevolvingPortlyIndigowingedparrot) and more info can be found at the [SmashWiki](http://www.ssbwiki.com/L-canceling),
+where this bot got its info.
+&
+l-canceled ledge grab
+Info on this tech can be found at the [SmashWiki](http://www.ssbwiki.com/L-canceled_ledge_grab), where this bot got its info, but as far as this bot is aware of L-canceling is not in
+Smash 4, and so treat this tech with skepticism.
+&
+ledge-canceling
+Ledge-canceling is an advanced technique in Melee that allows players to end the landing lag from an aerial attack (and some special moves) by sliding into their teetering animation after
+landing. Ledge-canceling moves grants players both opportunities for extremely fast followups using attacks that do not normally have combo potential and more movement options.
+A GIF of the tech can be found [here](http://www.gfycat.com/ClutteredGrandAmericanlobster) and more info can be found at the [SmashWiki](http://www.ssbwiki.com/Ledge-canceling),
+where this bot got its info.
+&
+ledge dash
+Ledgedashing is advanced tech in melee performed by dropping from the edge, jumping, then wavelanding onto the stage.
+A GIF of the tech can be found [here](http://www.gfycat.com/SparklingPleasingBengaltiger) and more info can be found at the [SmashWiki](http://www.ssbwiki.com/Edge_hopping),
+where this bot got its info.
+&
+ledge trump
+Ledge trumping is a technique only Possible in Super Smash Bros. For Wii U and 3DS. A ledge trump is when a recovering player grabs the ledge when another player is currently grabbing
+the ledge. This causes the player on the ledge to automatically let go and pop up backwards, allowing for an easy combo, such as Shiek's back air.
+A GIF of the tech can be found [here](http://gfycat.com/SafePoliticalHomalocephale) and more info can be found at the [SmashWiki](http://www.ssbwiki.com/Edge-guarding#Ledge_Trump),
+where this bot got its info.
+&
+lock
+A lock is a technique in Super Smash Bros. Brawl and Smash 4 where one character can repeatedly use a move or sequence of moves to place another character in an infinite after a
+character hits the floor while tumbling. The term is also used for the repeated usage of a single move that traps a character (ex: Sheik's forward tilt, Zelda's down tilt, and Snake's
+forward tilt).
+The most common type of lock is the jab lock, which can be performed by multiple characters. As the name states, it is done by hitting a fallen character with a jab, stepping forward,
+and hitting them again.
+Other moves besides jabs can cause a character to bounce in the same way. Some of them are fast enough to be repeated like the jab locks, while others cannot be repeated fast enough to
+keep the opponent in the locked position or have knockback scaling that causes the opponent to be launched at higher percents.
+A commonly used lock is Falco's laser lock, which, unlike other locks, has enough range to hit and lock characters on level ground with Falco regardless of distance (assuming tournament
+legal maps).
+A GIF of the tech can be found [here](http://www.gfycat.com/FastWarpedDartfrog) and more info can be found at the [SmashWiki](http://www.ssbwiki.com/Lock),
+where this bot got its info.
+main
+A player's main character, often shortened to main, is the character a person uses the most often. For instance, Ken's main in Super Smash Bros. Melee is Marth. "Main" also can be used
+as a verb, e.g., "Isai mains Captain Falcon and Sheik". In contrast, secondary characters are used in specific situations or just for casual play. It is possible for a player to use
+more than one main character, though multiple mains are generally less common but have become increasingly more common in more recent years with the majority of the top 10 players
+having 2 if not 3 mains with some exceptions. In tournaments, multiple mains are more common with low tier mainers as they usually require more than one character in order to face all
+matchups.
+A GIF of this tech is currently unavailable.  If you have one that you think would fit, please message kirby_freak.
+More info can be found at the [SmashWiki](http://www.ssbwiki.com/Main), where this bot got its info.
+&
+mang0
+LMAOOOOOOO
+&
+meteor smash
+A meteor smash is a type of attack in the Super Smash Bros. series that strikes opponents downwards, as opposed to horizontally or upwards like most attacks. Meteor Smashes are
+primarily designed to KO or gimp recovering opponents at especially low damage. As such, with their potential potency to take a stock especially early, most conventional meteor smashes
+are somewhat slow to execute or require sweetspotting, requiring accurate timing and positioning to land a successful blow. It is worth noting that meteor smashes can be meteor cancelled
+by the person on the receiving end of the attack. In Super Smash Bros. 4, characters that are meteor smashed onto a floor will bounce back up. While this allows certain Final Smashes
+to incorporate downwards finishers and still result in KOs when used onstage, it allows players to tech even if they were standing on the ground. In addition, stronger meteor smashes
+are now denoted by a unique sound effect upon connection.
+A GIF of the tech can be found [here](http://www.gfycat.com/ClearcutRaggedAmericanlobster) and more info can be found at the [SmashWiki](http://www.ssbwiki.com/Meteor),
+where this bot got its info.
+&
+momentum canceling
+Momentum canceling is a staple technique in Super Smash Bros. Brawl's metagame that reduces the momentum of a character in midair, and makes characters harder to KO. The technique
+involves executing aerials, specials, or air dodges to halt a character that is knocked into the air. Since, in Brawl, attacks and air dodges can be performed while tumbling and reeling,
+it is possible to use these moves, in combination with others, to slow a character's aerial movement, and avoid crossing blast lines and being KOd. A prominent example of a momentum
+canceling move is Mr. Game & Watch's Oil Panic, which negates all aerial momentum immediately, and may be used after tumbling has ended.
+A GIF of the tech can be found [here](http://www.gfycat.com/ShabbyUnawareBelugawhale) and more info can be found at the [SmashWiki](http://www.ssbwiki.com/Momentum_cancelling),
+where this bot got its info.
+&
+monando
+A joke made by Mew2King, Zero, and some others on M2K's stream. "Monado" was said wrong, and instead, out came "Monando".
+The source of the joke is [here.](https://www.youtube.com/watch?v=FQykB3uYG_g_)
+&
+money match
+A money match, sometimes referred to as a cash battle or abbreviated as MM, is a friendly gambling event that occurs between two smashers who have decided to play a match against each
+other with money on the line for both players. Money matches most often occur as side events at tournaments, such as in the Salty Suite, but can theoretically occur anywhere where there
+are two players and a game; some players even perform money matches over Wi-Fi, with electronic methods of payment being used for the bets, such as PayPal.
+Money matches typically have the same format as tournament matches, and are generally either best two out of three or best three out of five. They also often include stage and character
+counterpicking. Each player usually puts up an amount between $1 and $100 although there are cases of money matches for more, or for non-monetary items such as food. Two-on-two money
+matches are not unheard of, but are considerably rarer than singles.
+More info can be found at the [SmashWiki](http://www.ssbwiki.com/Money_match), where this bot got its info.
+&
+moonwalk
+In Super Smash Bros. Melee, the moonwalk is a technique that involves sliding backwards during in the initial dash animation. Discovered by the smasher Mr.C, the technique is named
+after the signature dance move of famed pop singer Michael Jackson. Moonwalking is achieved by tilting the control stick backwards while dashing, but without passing through the
+neutral position. The only easy way to do this is to rotate the stick below the neutral position (as going above results in a jump), but just barely below as to prevent losing some
+distance from crouching; as a result, the player needs to turn the stick so that it forms a semielliptical shape instead of a semicircular shape. This should result in the user doing
+a backwards slide, but in a state more similar to dashing than to wavedashing. There are two documented variations of the moonwalk: the sticky walk and the Charlie walk.
+A GIF of the tech can be found [here](http://www.gfycat.com/ObedientNeedyBandicoot) and more info can be found at the [SmashWiki](http://www.ssbwiki.com/Moonwalk),
+where this bot got its info.
+&
+nair
+The nair, an abbreviation of neutral aerial, is an aerial attack that is performed in midair by pressing only the attack button while no direction is being inputted
+Every character, in every incarnation of Smash, has a nair.  Nairs can be L-Canceled in 64, Melee, and Project M to reduce their landing lag.
+A GIF of the tech is currently unavailable and more info can be found at the [SmashWiki](http://www.ssbwiki.com/Neutral_aerial),
+where this bot got its info.
+&
+nerf
+A nerf, or nerfing, is a term used to describe the weakening of a character or certain aspects of that character, done either in balance changes or sequels. It is often done to try and
+balance the roster. An example is Marth's grab range from Melee to Brawl, where his grab range was reduced. With the loss of dash dancing, this made it harder for Marth to land grabs.
+More info can be found at the [SmashWiki](http://www.ssbwiki.com/Marth_(SSBB)#Changes_from_Melee_to_Brawl), where this bot got its example.
+&
+neutral game
+The neutral game, or just neutral, is a phase during gameplay when no player has a situational advantage over the other. In this phase, either player's objective is to "win the neutral
+game", i.e. land a hit with possible follow-ups, or punish the enemy for a failed attempt to do so. Some characters have an advantage during the neutral game, depending on the matchup.
+For example, a projectile may be used to pressure the enemy into making a move. Other possible advantages include attack range and mobility.
+A GIF of this tech is currently unavailable.
+If you have one that you think would fit, please message kirby_freak. More info can be found at the [SmashWiki](http://www.ssbwiki.com/Neutral_game), where this bot got its info.
+&
+one-hit ko
+A one-hit KO, commonly abbreviated as OHKO, is an attack in the Super Smash Bros. games with such high base knockback that it KOs at 0%. Such attacks currently exist in every installment
+of the series. However, moves that have the potential OHKO are not necessarily guaranteed to do so, and may fail to OHKO under the certain circumstances.  A common standard is to
+compare the move's knockback to the smash attack of the Home-Run Bat, the move intended to be the quintessential OHKO by the programmers.
+A GIF of this tech is currently unavailable.  If you have one that you think would fit, please message kirby_freak.
+More info can be found at the [SmashWiki](http://www.ssbwiki.com/OHKO), where this bot got its info.
+&
+pc drop
+A tech in Melee, PM, and 64 achieved by walking towards the ledge and turning around just before reaching the ledge. The walking momentum will slide you off the stage allowing you to
+grab the ledge. This tech is not necessary in Sm4sh because you can grab ledge by simply running off and holding back since you can grab the ledge backwards.
+A GIF of the tech can be found [here](http://www.gfycat.com/MasculineFantasticEeve) and more info can be found in this [video](https://www.youtube.com/watch?v=yw9pfO9UORU), where this bot got
+its info.
+&
+pivoting
+Pivoting, or DA Dashing, is a technique in Super Smash Bros., Super Smash Bros. Melee, and Super Smash Bros. 4 that lets a character use attacks out of a dash.
+In Smash 64 and Melee, the technique is the use of the time frame at which a character turns during a dash; any normal ground options are available as if the character were standing
+still - smashes, grabs and tilts can occur here without the lag that usually comes from using these attacks after a dash. Normal pivoting is primarily used so that a character can
+quickly change the direction they are facing whilst not suffering the usual turn-around lag that would occur when doing so. This can allow characters to improve the utility of various
+moves in certain situations.
+The tactic was discovered by Philly Billy.
+A GIF of the tech can be found [here](http://www.gfycat.com/QuaintBlissfulGrassspider) and more info can be found at the [SmashWiki](http://www.ssbwiki.com/Pivoting),
+where this bot got its info.
+&
+platform cancel
+Platform canceling is a technique in Super Smash Bros. Brawl that allows the player to instantly land on a moving platform after jumping up through it. This allows players to quickly
+make any move by canceling the time otherwise spent falling and landing on the platform. Platform canceling is performed by jumping through a moving platform and then inputting down on
+the control stick or the C-Stick along with any other action. If the player inputs a shield or a dodge before pressing down, then the player's character will land on the platform and
+immediately drop through it.
+A GIF of the tech can be found [here](http://www.gfycat.com/ImmaterialSharpDodobird) and more info can be found at the [SmashWiki](http://www.ssbwiki.com/Platform_cancel),
+where this bot got its info.
+&
+playstation allstars
+Once upon a time, a wonderful man by the name of Masahiro Sakurai created the Super Smash Brothers series and kicked off the genre of "Platform Fighter". It was a beautiful game, and
+each installment has its special place in my robotic heart for different reasons.
+However, Satan saw this and decided to create Playstation All Stars Battle Royale in an attempt to compete with Sakurai and his beloved game. He failed miserably.
+&
+powershield
+A powershield (officially called perfect shield in Brawl and SSB4) is a technique in Melee, Brawl, and Smash 4 where one activates a full shield such that it connects with an incoming
+attack on the first few frames. In order for the technique to be executed, one must rely on timing and skill. When the opponent is ready to strike, the player must quickly use the
+shield. If done correctly, the character takes no shield damage (or shield stun if a projectile was powershielded) and may immediately perform a counterattack while the attacker is
+stuck in hitlag. The powershield technique in Melee and Brawl is comparable to a parry in traditional fighting games, as it results in little to no knockback and freezes the opponent
+for a couple frames. Powershielding is done by quickly and fully depressing a shield button four frames before an attack connects. If done correctly, there will be a significant flash
+on the shield and a distinctive "chlink" sound. Because it is technically a shield, it is ineffective against grabs. In Melee, powershielding can reflect projectiles during the first
+two frames. In Brawl, this does not happen, and it merely redirects the attack at an angle without changing ownership of the projectile.
+(Note: there is not currently any other info on Smash 4's perfect shielding on the wiki.)
+A GIF of the tech can be found [here](http://www.gfycat.com/UnpleasantWarmheartedIrishdraughthorse) and more info can be found at the [SmashWiki](http://www.ssbwiki.com/Perfect_shield),
+where this bot got its info.
+&
+power shield canceling
+Power shield canceling (PSC) is an advanced technique in Super Smash Bros. Brawl that is the act in canceling the player's shield drop animation after power shielding by inputting an
+attack on the last frames of shield lag. This gives the player the ability to use any attack right after they power shield an attack, however, as of now, the player can't forward smash
+or down smash out of a perfect shield, since the game will make the player roll or spot dodge. This move is well known for being a strategy to punish a Meta Knight using Mach Tornado.
+A GIF of the tech can be found [here](http://www.gfycat.com/AnyDemandingFoal) and more info can be found at the [SmashWiki](http://www.ssbwiki.com/Power_shield_canceling),
+where this bot got its info.
+&
+project m
+Project M (also known as PM) is a gameplay modification of Super Smash Bros. Brawl designed to make the gameplay more closely resemble that of Super Smash Bros. Melee mainly, and also Super Smash Bros.
+to a lesser extent. This means that the speed of gameplay has been generally increased, with many Melee mechanics being restored. The development team is partly descended from the
+original developers for Brawl+, now known as the PMDT, or Project M Dev Team (formerly the PMBR, or Project M Backroom). It has members from over ten countries, though as of now, only
+an NTSC version has been released.[1] Project M's character roster notably includes Mewtwo and Roy (two characters that were playable only in Melee and not in Brawl) with altered
+graphics and movesets.
+Project M is commonly featured as an event at tournaments including several national tournaments, such as the Zenith series, The Big House series, and Apex 2014. Starting around
+2012-2013, Project M saw a rapid rise in its popularity as more characters became playable and the mod was featured more commonly at Smash tournaments; the number of entrants for
+Apex 2014's PM singles event notably surpassed the amount of entrants for the original Brawl.
+A GIF of some gameplay can be found [here](http://gfycat.com/SlimRegularHornedviper) and more info can be found at the [SmashWiki](http://www.ssbwiki.com/Project_M), where this bot got its info. 
+&
+rage
+Rage is a new mechanic in Super Smash Bros. 4, where a character's attacks will deal increased knockback as their damage rises. The effect is similar to Lucario's aura mechanic, though
+the damage dealt by attacks does not increase, and the increase in knockback is much less significant. Rage begins to take effect at 10% damage, and maxes out at 200% damage. At
+maximum rage, attacks will deal 2.0x the amount of knockback that would normally be dealt. The multiplier increases by one tenth every 10%, until it caps out at 2.0. Rage is visually
+denoted by characters flashing red and smoke rising out of them when they reach 100%, and the effect grows more visually intense as damage rises farther until the aforementioned 200%.
+Rage was a mechanic in Tekken 6 (2007) which head developers of Smash 4, Bandai Namco, also created. It acted similarly, but instead of more knockback, moves gained more damage.
+A GIF of this tech is currently unavailable.  If you have one that you think would fit, please message kirby_freak.
+More info can be found at the [SmashWiki](http://www.ssbwiki.com/Rage), where this bot got its info.
+&
+recovery
+A character’s recovery refers to his or her ability to get back onto the stage once hit off. Most characters rely on using their second jump and special attacks. Some characters,
+such as Donkey Kong, have bad recoveries that allow players very few options. Others, such as Fox and Samus, have better recovery options that keep them from being predictable and easy
+to edge guard.
+A GIF of this tech is currently unavailable.  If you have one that you think would fit, please message kirby_freak.
+More info can be found at the [SmashWiki](http://www.ssbwiki.com/Recovery), where this bot got its info.
+&
+reverse aerial rush
+A reverse aerial rush, abbreviated as RAR, is a backwards jumping technique in Super Smash Bros. Brawl and Super Smash Bros. 4. The RAR can be done with standard controls or with a
+GameCube controller using B-Sticking. Either method is best used with characters who have fast or otherwise useful back aerials.
+To perform a RAR, the player must be running, and cannot be in the initial dash animation (limiting the usefulness of the RAR for characters with long initial dashes, such as
+Captain Falcon and Sonic). If the player presses the control stick backwards to turn around but jumps as soon as the turnaround begins, the character will jump backwards while keeping
+the running momentum. The result is a jump like a normal jump out of a run, except that the character is facing the other direction.
+The main purpose of using a RAR is to attack with a back aerial in front of the character. There is also a variant called the auto RAR.
+To perform an auto RAR, one needs to have the C-Stick set to special moves, as opposed to smash attacks. While a character is running, the player can press the C-Stick in the opposite
+direction of the run. The character will then do the RAR jump where another action can be taken.
+A GIF of this tech is currently unavailable.  If you have one that you think would fit, please message kirby_freak.
+More info can be found at the [SmashWiki](http://www.ssbwiki.com/Reverse_aerial_rush), where this bot got its info.
+&
+reverse hilldash
+The reverse-hilldash is a natural technique in Brawl. It is a simple slide across the ground that is usually quite small, but can sometimes be a moderate distance. It happens by simply
+landing on a slope, in which the character will slide downwards. Although most characters find no use of it due to its negligible distance for that character, other characters with low
+traction can slide quite far with this, such as Luigi and Captain Falcon.
+A GIF of this tech is currently unavailable.  If you have one that you think would fit, please message kirby_freak.
+More info can be found at the [SmashWiki](http://www.ssbwiki.com/Hilldash), where this bot got its info.
+&
+sacred combo
+The Sacred Combo is a combo that uses Captain Falcon's Forward Aerial and the Falcon Punch. The combo itself is performed by knocking an opponent off the stage with Captain Falcon's
+forward aerial (the Knee Smash) and then jumping off the edge of the stage before striking the opponent with Falcon Punch, in mid-air. If performed successfully, this combo results in a
+KO in almost all cases, although by performing this combo, Captain Falcon may fail to recover back to the stage in Melee if he jumps too far off the edge to perform his Falcon Punch. A
+GIF of the combo can be found [here](https://gfycat.com/ElectricSereneCoypu) and more info can be found at the [SmashWiki](http://www.ssbwiki.com/Falcon_Punch#In_Super_Smash_Bros._Melee),
+where this bot got its info.
+&
+sdi
+Smash Directional Influence, also known as SDI, Smash DI, or (in Smash 4) Hitstun Shuffling, is a technique that can be used when you are being attacked. By hitting the joystick
+(and/or the c-stick for gamecube controlers) during 'hitlag',
+you are able to instantly move slightly in that direction, allowing you to potentially escape multi-hit moves or certain combos. This can be done multiple times if you're very quick.
+Note that you cannot SDI downwards at all if you were on the ground when hit. SDI is not a subtype of DI, and is a completely different mechanic.
+A GIF of the tech can be found [here](https://gfycat.com/FriendlySoupyDolphin) and more info can be found at the [SmashWiki](http://www.ssbwiki.com/Smash_directional_influence),
+where this bot got its info.
+&
+shield break
+Each character has a shield with a particular size and strength. With each hit inflicted within a period of time, the shield will diminish until it is broken. This results in the
+character being thrown into the air, and being stunned for a few moments after landing. Stun time is dependent on damage; characters with more damage will be stunned for less time.
+This phenomenon is known as a shield break.
+A GIF of the tech can be found [here](http://gfycat.com/WanPlasticCoati) and more info can be found at the [SmashWiki](http://www.ssbwiki.com/Shield_break#Shield_breaking),
+where this bot got its info.
+&
+shield break combo
+A Shield Break Combo is a combination of attacks that enables a character to break an opponent's shield without the opponent having to hold down shield for the duration of the combo.
+Normally, when one is shielding and then lets go of the shield button, the shield disappears. This does not happen when the shield is under attack. If one lets go of shield while the
+opponent's attacks are making contact with the shield, the shield will stay until the attacks stop for a certain amount of time (this is called shield stun). As the attacks make
+contact, the shield gradually shrinks. If the shield size decreases too much, the shield will break, causing the shielder to become stunned in place for a few seconds, depending on the
+damage. Normally, there is enough delay after an attack to allow the shielder to remove the shield if he/she chooses to do so, but there exist certain combos in which attacks are
+executed quickly enough so that the shield stays up for the duration of the combo, at the end of which the shield breaks.
+A GIF of the tech can be found [here](http://www.gfycat.com/DiligentRegularBagworm) and more info can be found at the [SmashWiki](http://www.ssbwiki.com/Shield_break_combo),
+where this bot got its info.
+&
+shield grab
+A shield grab is the act of grabbing while shielding. Generally it is used to punish attacks when they are blocked - in most cases the attacker will be caught in the lag of their
+attack, which means the defender's grab can often connect with little trouble. Using a shield grab allows a character to circumvent the slight delay that usually occurs after dropping
+the shield, so unless the character has a good out of shield option a shield grab is usually the best response. Because grabbing input-wise is the same as shielding and attacking at
+the same time, shield grabs can be done simply by pressing the attack button while shielding, instead of pressing the grab button. 
+A GIF of the tech can be found [here](http://gfycat.com/MeagerAliveCowbird) and more info can be found at the [SmashWiki](http://www.ssbwiki.com/Shield_grab),
+where this bot got its info.
+&
+shield platform dropping
+Shield platform dropping is an advanced technique in all four Super Smash Bros. games. It involves dropping through a soft platform while shielding by tilting the analog stick down.
+Shield platform dropping opens a larger possibility of comboing, tech-chasing, edgeguarding, mindgaming, and out-of-shield options. The player can run and pass under the platform,
+which cannot be done without shielding in Brawl. This technique also gives Yoshi a quick way to act out of his unique shield, as he cannot jump out of shield in Melee and Brawl.
+A GIF of the tech can be found [here](http://www.gfycat.com/PotableGaseousBrahmanbull) and more info can be found at the [SmashWiki](http://www.ssbwiki.com/Shield_platform_dropping),
+where this bot got its info.
+&
+shine
+Shine informally refers to Fox, Falco, and Wolf’s down special attacks, more formally known as the Reflector. While they were designed as an attack used to reflect projectiles, they
+are notorious for having a 1-frame startup time and often leading into combos or edge guards. Shines can also be cancelled with a jump in Melee, allowing for players to act almost
+instantly.
+Fox’s shine was nerfed drastically in Brawl and Smash 4, while Falco’s was changed almost completely.
+A GIF of the tech can be found [here](https://gfycat.com/KnobbyCarefulIrishsetter) and more info can be found at the [SmashWiki](http://www.ssbwiki.com/Reflector),
+where this bot got its info.
+&
+shinespike
+The shine spike is one of Fox's edge-guarding techniques. It consists of using Fox's down special, Reflector, to semi-spike an offstage opponent, in order to gimp them, preventing them
+from being able to recover. The shine spike is especially effective, because the shine has set knockback and hitstun, making it as capable at zero percent as it is at three hundred
+percent. Also, since the move slows Fox's vertical movement, it allows him to easily recover after spiking, especially in Melee, since the shine can be jump-cancelled in that game as
+well.
+In Brawl, the technique loses some of its effectiveness, due to its variable knockback, but it's still highly effective at stopping opponents with less than average recovery from
+getting back on the stage. Floaters, characters with two recovery techniques (such as Wario) and characters with a tether recovery are generally able to survive it at low damage
+percentages.
+A GIF of this tech is currently unavailable.  If you have one that you think would fit, please message kirby_freak.
+More info can be found at the [SmashWiki](http://www.ssbwiki.com/Shine_spike), where this bot got its info.
+&
+short hop
+A short hop, officially a short jump, small jump, or low jump in Super Smash Bros. 4, is the act of pressing the jump button or pushing the control stick upward (easier if control stick
+isn't pushed all the way) and letting go before the character leaves the ground. This will result in a jump that is lower than a normal jump. This technique can be performed in all
+Super Smash Bros. games thus far.
+The short hop technique is an essential move in competitive play, allowing the user to perform aerial attacks closer to the ground. This is useful for spamming aerials, especially with
+the SHFFL technique in Melee, as the aerials can be done closer to the ground and possibly hit targets who are still on the ground, with other techniques such as double jump cancelling
+allowing even lower aerials. Hitting grounded targets is great for characters whose aerials play a significant part of their metagame, such as Ness, who can perform deadly double jump
+cancel combos in conjunction with other moves such as his up tilt in Smash 64. Characters who have strong aerial attacks, such as Captain Falcon, benefit from this greatly. Short hopped
+aerials are also very useful for aerial approaches and spacing, especially for characters such as Marth.
+A GIF of this tech is currently unavailable.  If you have one that you think would fit, please message kirby_freak.
+More info can be found at the [SmashWiki](http://www.ssbwiki.com/Shorthop), where this bot got its info.
+&
+short hop fast fall l-cancel
+The short hop fast fall L-cancel, commonly abbreviated as "SHFFL" (pronounced - and sometimes written - like the word "shuffle"), is a combination of advanced techniques in Melee that,
+for most characters, results in the quickest and least laggy way to jump and perform an aerial from the ground in Super Smash Bros. Melee. A SHFFL, per its name, comprises a short hop,
+a fast-fall and an L-cancel, and an aerial attack that occurs while the user is in mid-air.
+When teaching advanced techniques to new players, higher-leveled smashers often emphasize the importance of SHFFLing because the technique reflects a mastery of several important
+advanced techniques. SHFFLing is highly useful in battle and in competitive play because its speed allows players to use aerial attacks in tandem with ground moves.
+A GIF of the tech can be found [here](http://www.gfycat.com/ImperturbableCommonIslandcanary) and more info can be found at the [SmashWiki](http://www.ssbwiki.com/Short_hop_fast_fall_l-cancel),
+where this bot got its info.
+&
+sm4sh
+Super Smash Bros. for Nintendo 3DS/Super Smash Bros. for Wii U, also known as Sm4sh, Smash 4, and SSB4, is the 4th entry in the Super Smash Bros. series. The game was released in 2014,
+and featured the addition
+of Rosalina & Luma, Bowser Jr., Greninja, Robin, Lucina, Palutena, Dark Pit, Villager, Little Mac, Wii Fit Trainer, Shulk, Duck Hunt, Mega Man, Pac-Man, Mii Gunner, Mii Brawler, and Mii
+Swordfighter as playable characters, along with Ryu as a DLC character.  Dr. Mario returned after being cut from Brawl, as did Mewtwo and Roy as DLC characters. Lucas also returns from
+Brawl as a DLC character.  The Ice Climbers, Wolf, Pokémon Trainer (excluding Charizard), and Snake are the four Brawl characters that did not return in Smash 4.  There are currently 59
+playable characters in Smash 4.
+More info can be found at the [SmashWiki](http://www.ssbwiki.com/Super_Smash_Bros._4), where this bot got its info.
+&
+sticky walk
+The sticky walk is an extension of the moonwalk. First the player must execute a normal moonwalk by dashing one direction and then rolling the stick underneath neutral to the direction
+opposite of the original direction. Then, before the initial dash animation ends, the player must roll the stick underneath neutral back to the original direction. This initiates the
+standard running animation of the character. If the sticky walk was performed well enough, the character will continue sliding backward temporarily, slow to a stop, and then begin to
+run forward. However, because the speed of the animation is directly proportional to the speed of the character's movement across the stage, the character's running animation slows to a
+stop at the apex of the sticky walk and then resumes in slow motion.
+A GIF of this tech is currently unavailable.  If you have one that you think would fit, please message kirby_freak.
+More info can be found at the [SmashWiki](http://www.ssbwiki.com/Moonwalk), where this bot got its info.
+&
+taunt
+A taunt, previously referred to as a finishing pose and as appeal internally, is a move designed to provoke, annoy, or mock opponents, or to just celebrate a successfully executed move
+or combo. Up until Super Smash Bros. Brawl, there was a limit of one taunt per character (with the exception of Pichu and Captain Falcon in Melee); in Brawl and SSB4, however, each
+character has at least three different taunts. While predominantly only for show, nine taunts in the series can affect gameplay outside moving the character's hurtboxes.
+A GIF of the tech can be found [here](gfycat.com/ShinyHealthyGermanspitz) and more info can be found at the [SmashWiki](http://www.ssbwiki.com/Taunt), where this bot got its info.
+&
+taunt canceling
+Taunt canceling is a feature in the Super Smash Bros. games (except Smash 4) which cancels the taunt animation of a character but not the taunt sound, often for mindgames or for
+humorous purposes. It is usually done by combining a taunt with the teetering animation that occurs when a character is on the edge of a platform. Taunting at the moment of teeter will
+result in that character's taunt sound being played, but without the animation, allowing a player to move freely. When done rapidly, it is possible to have the same taunt sound be played
+multiple times overlapping each other. It is worth noting that not all characters can taunt cancel.
+A GIF of the tech isn't really useful because GIFs have no sound... But if you'd like, it can be found [here](http://www.gfycat.com/ShimmeringMisguidedGroundbeetle) and more info can be
+found at the [SmashWiki](http://www.ssbwiki.com/Short_hop_fast_fall_l-cancel), where this bot got its info.
+&
+team wobble
+A team wobble is when two players on a team continuously grab a single opponent just as they escape from the other's grab (or throw). Two players stand on each side of their target,
+with one grabbing and pummelling, the other waiting to catch the opponent when they manage to escape; they then trade duties and repeat. The team wobble can also be performed with
+throws delivering low knockback; performing it with throws makes it impossible to escape out of using an air release and does not require prediction of the opponent's escape like the
+grab release version does. As long as both players grab correctly, this is a team infinite. Although all characters can perform this, those with fast and long grabs (such as Marth or
+Olimar) are better at team wobbles than those with slow or short grabs (such as Bowser or Pikachu).
+A GIF of the tech can be found [here](http://www.gfycat.com/FrankHandsomeArmednylonshrimp) and more info can be found at the [SmashWiki](http://www.ssbwiki.com/Team_wobble),
+where this bot got its info.
+&
+tech
+A tech, officially referred to as a breakfall in Super Smash Bros., an ukemi (受け身) in Super Smash Bros. Brawl, breaking your fall in Smash 4, and passive internally in Melee and
+Brawl, is an action that can be performed when the player's character hits the ground, a wall, or a ceiling while tumbling or in hitstun. To tech, the user must press the shield button
+20 frames or fewer before hitting the surface; after that, a player won't be able to tech for 40 frames. Additional button or control stick input can cause different types of techs.
+A GIF of the tech can be found [here](http://gfycat.com/AngryMadFly) and more info can be found at the [SmashWiki](http://www.ssbwiki.com/Tech), where this bot got its info.
+&
+tech-chasing
+Tech-chasing is the act of following or predicting an opponent's tech or floor recovery in order to attack them before they can respond. Because a character's tech animations have small
+windows of vulnerability before ending and allowing action, it is possible to read the direction of a player's tech and punish them. Characters with fast movement speeds like Captain
+Falcon are very good at tech-chasing as they can reach the opponent's destination faster, though those with long-reaching attacks like Marth can do similarily well. Projectiles can also
+do a good job of tech-chasing when timed correctly. Tech-chasing is much easier to do on characters with short tech rolls (such as Olimar) than those with long tech rolls (such as Zelda).
+A GIF of the tech can be found [here](http://www.gfycat.com/GivingPeskyIcefish) and more info can be found at the [SmashWiki](http://www.ssbwiki.com/Tech-chasing),
+where this bot got its info.
+&
+thunders combo
+A Thunders' Combo is a Technique from Super Smash Brothers: Melee. It involves using Fox's Down B attack, Reflector, to hit an opponent, and then wave-dashing out of the shine and
+hitting the opponent with Fox's Neutral A attack to Jab Reset an opponent. This move only works on characters that would fall down after being shined, such as Falco. These characters
+can tech the knockdown from the shine, but due to how fast Shine is, it's hard to react fast enough to input the tech if you're grounded.
+This technique is named after the West Japanese player known as Thunders. It's commonly misnamed Thunder's Combo, but due to it being the combo made by Thunders, it is actually the
+Thunders' Combo.
+A GIF of the tech can be found [here](http://www.gfycat.com/ElaborateRegularHoatzin) and more info can be found at the [SmashWiki](http://www.ssbwiki.com/Shine),
+where this bot got its info.
+&
+tilt
+A tilt is a move than can be executed in all Smash Brothers games by tilting the control stick in a direction instead of sharply smashing it in a direction (hence the names for tilts
+and smash attacks). The official term for a tilt is a "strong attack", and it is also called a power attack. Tilts, like many moves, can be performed in three directions: up, down, and
+to the side. Many side tilts can be angled.
+A GIF of an up-tilt can be found [here](http://gfycat.com/SpottedKeyBluet) and more info can be found at the [SmashWiki](http://www.ssbwiki.com/Tilt_attack),
+where this bot got its info.
+&
+uair
+An up aerial, often abbreviated as up-air or uair, is an aerial attack that is performed in midair by pressing the attack button and tilting the control stick or analog stick upwards.
+A GIF of the tech can be found [here](https://gfycat.com/SardonicFlakyAustraliansilkyterrier) and more info can be found at the [SmashWiki](http://www.ssbwiki.com/Uair),
+where this bot got its info.
+&
+up-b cancel
+In Melee, Dr. Mario can cancel his Super Jump Punch. To perform it, a player must have Dr. Mario use his Super Jump Punch and then during the first four frames, quickly move the control
+stick in the opposite direction. Another way the player can do it is to use Super Jump Punch so Dr. Mario would jump backwards and then press the control stick downward during the first
+few frames of the animation. This can be used for combos (similar to Fox's Reflector) or to shield cancel and punish the opponent for approaching or for trying to break the player's
+shield; its set knockback, however, means that it cannot potentially KO opponents.
+A GIF of the tech can be found [here](http://www.gfycat.com/WhirlwindActiveAfricangoldencat) and more info can be found at the [SmashWiki](http://www.ssbwiki.com/Up-B_cancel#Up-B_cancel),
+where this bot got its info.
+&
+up special
+An up B, or up special, is a special attack done while holding the control stick upwards. Up specials are usually a character's recovery move; using them typically provides the most
+distance horizontally and/or vertically out of any of their abilities, but renders the character in helpless. Many specials also are designed to damage and disrupt opponents trying to
+edgeguard. As with up smashes, up specials can be used as a OOS option in Melee.
+A GIF of this can be found [here](http://www.gfycat.com/VengefulHiddenCooter) and more info can be found at the [SmashWiki](http://www.ssbwiki.com/Up_special_move),
+where this bot got its info.
+&
+wall infinite
+A wall infinite is a combination of moves used to trap another character against a wall and continuously deal percentage.
+In Super Smash Bros Melee, Fox is notable for being able to perform wall infinites at the limit of the player's technical skill. Wall infinites work on characters that don't fall over
+from Fox's shine. Against most walls, Fox can string together L-canceled down aerials into the shine. At this point, Fox can either jump cancel the shine and start another down aerial,
+or waveshine out of it and start another down aerial. Both of these variations will work. The repetition of this drill-shine-drill-shine input results in an infinite combo. The down
+aerial may be short-hopped or full jumped.
+In Super Smash Bros Brawl, Falco is known to have a [laser lock](http://gfycat.com/HappygoluckyBlackandwhiteEastsiberianlaika) on all characters tall enough to be hit by a laser when
+knocked down. Once the laser lock begins, it is inescapable against walls, as long as the Falco continues to shoot lasers. 
+In Project M, wall infinites using Fox's shine were [removed](http://gfycat.com/ShrillUnhealthyHylaeosaurus).
+These are only specific examples; wall infinites are also possible with other characters as long as the opponent cannot DI or SDI out of the combo.
+More info can be found at the [SmashWiki](http://www.ssbwiki.com/Waveshine_infinite#Wall_infinite), where this bot got its info.
+&
+wall of pain
+The Wall of Pain (sometimes abbreviated as WoP) is a Jigglypuff technique in all the Smash games, while a similar technique called the Fence of Pain can also be done by Kirby.
+Meta Knight can also perform a pseudo-Wall of Pain in Brawl. The Wall of Pain involves barraging the opponent with fast aerial attacks, exploiting Jigglypuff's high horizontal air speed
+to weave back and forth. The Wall of Pain can be used as either a method to juggle enemies offstage, as a powerful edgeguarding technique, or as a method to increase the damage on
+opponents.
+A GIF of the tech can be found [here](http://www.gfycat.com/PoorUnlinedHarvestmouse) and more info can be found at the [SmashWiki](http://www.ssbwiki.com/Wall_of_pain),
+where this bot got its info.
+&
+wavecheat
+A glitch in Super Smash Bros. Melee that lets people cheat because they hate having fun and only care about winning.
+A GIF of the tech can be found [here](http://www.gfycat.com/MediumLoathsomeArctichare) and more info can be found at the [SmashWiki](https://www.youtube.com/watch?v=7yRuHWX_zkU),
+where this bot got its info.
+&
+wavedash
+A wavedash is a technique/physics engine exploit in Super Smash Bros. Melee that is performed by air dodging diagonally into the ground, causing the character to slide a short distance.
+While it is uncommon in casual play, high-level play of Melee effectively requires proper use of the technique; the Melee community sees wavedashing as an advanced technique superior to
+dashing because it allows players to perform any ground action while moving horizontally on the ground. Use of the technique is especially important for the metagame of characters with
+poor traction, such as Luigi, Mewtwo, and the Ice Climbers, and almost every other character requires some use of wavedashing for positioning and maneuvering, particularly in combos and
+mindgames.
+A GIF of the tech can be found [here](http://www.gfycat.com/ElasticShyAvians) and more info can be found at the [SmashWiki](http://www.ssbwiki.com/Wavedash),
+where this bot got its info.
+&
+waveland
+Wavelanding is performed after a character jumps to his/her peak and descends. As the character approaches the ground, press L or R to initiate an air dodge towards the ground. The ground
+then stops the air dodge animation and begins a normal wavedash. This is especially useful for moving around platforms quickly and for getting onto the stage quickly.
+A GIF of the tech can be found [here](http://gfycat.com/DangerousWhimsicalHectorsdolphin) and more info can be found at the [SmashWiki](http://www.ssbwiki.com/Waveland#Wavelanding),
+where this bot got its info.
+&
+waveshine
+A waveshine is a wavedash done immediately out of a shine in Super Smash Bros. Melee. It can be done by Fox and Falco. A wavedash can be performed anytime a character is on the ground
+and can jump. The shine can be canceled by jumping shortly after it is initiated. Therefore, it is possible to jump out of the shine into a wavedash.
+To waveshine, use the shine, then jump cancel into a wavedash out of it.
+It is often easier to use the X/Y buttons instead of the control stick because it is considered harder to wavedash with only the control stick. The logic is that to jump with the
+control stick requires the stick to go up. To wavedash, the succeeding angle is angled towards the ground. This makes for more complicated manual motions, and should be avoided in
+order to achieve a speedy waveshine.
+A GIF of the tech can be found [here](https://gfycat.com/AdvancedViciousBunting) and more info can be found at the [SmashWiki](http://www.ssbwiki.com/Waveshine),
+where this bot got its info.
+&
+waveshine infinite
+A Waveshine infinite is an infinite in Super Smash Bros. Melee which uses the waveshine, performable using Fox. The Waveshine Infinite can not be done with Falco, as his Shine has
+vertical knockback. Performing the technique and its variations requires knowledge of L-canceling, the Waveshine, and the short hop.
+There are two general types of the Waveshine infinite. One can infinite an opponent either against a wall, which is generally easier, or on a flat surface, without a wall. Both types
+of infinites have multiple ways to perform them.
+A GIF of the tech can be found [here](https://gfycat.com/AdvancedViciousBunting) and more info can be found at the [SmashWiki](http://www.ssbwiki.com/Waveshine),
+where this bot got its info.
+&
+wectoring
+Before Patch 1.0.4 of Super Smash Bros. for 3DS, Wario had a glitch involving vectoring that allowed him to change, redirect and manipulate his knockback when launched, greatly improving his recovery. With this bug,
+Wario could literally float to whichever direction the player wanted whenever he received knockback by canceling the momentum of the hitstun and redirecting the vector; the more
+powerful the knockback and the higher Wario's percentage, the longer and farther he could float, meaning this bug allowed him to have near infinite recovery.
+A GIF of the tech can be found [here](http://gfycat.com/HoarsePeskyDogwoodtwigborer) and more info can be found at the [SmashWiki](http://www.ssbwiki.com/Directional_influence#In_SSB4)
+and on [YouTube](https://www.youtube.com/watch?v=N88FInWUfVo), where this bot got its info.
+&
+wobbling
+Wobbling is an infinite grab technique exclusive to the Ice Climbers in Melee. When performed correctly, opponents can't break out of Popo's grab and will get continuously hit. It can
+be performed on all characters except Ice Climbers. The tech is named after the American Ice Climbers main [Wobbles](http://www.ssbwiki.com/Smasher:Wobbles). Wobbling begins with a
+grab by Popo. Following this, the Ice Climbers player must use one of many methods to desynch the Ice Climbers, and have Popo pummel while Nana forward tilts or down tilts. If done
+correctly, Popo and Nana will hit the enemy repeatedly in an alternating rhythm while the enemy cannot escape. This technique can inflict significant damage, and can lead to a KO if
+Nana performs a forward smash after sufficient damage has been inflicted.
+A GIF of the tech can be found [here](http://gfycat.com/CandidFelineGazelle) and more info can be found at the [SmashWiki](http://www.ssbwiki.com/Wobbling),
+where this bot got its info.
+&
+zair
+A zair, also known as a grab aerial or grab air, is an aerial attack that utilizes a character's extended grab implement in the air. Link, Samus, Young Link, Lucas, Zero Suit Samus,
+and Toon Link are the only characters with this ability, though Lucas's grab air doesn't do any damage in Brawl. 
+Zair is performed simply by pressing the grab button while in the air. Zairs can work as a tether recovery, or a wall-grapple in Melee. Pressing the attack button during an air dodge
+will cancel it into a grab aerial, allowing for aerial punishing.
+Zairs do little damage, on average, 4%, and they do minuscule knockback. However, they have long range, come out quick, and has little end lag. 
+A GIF of this tech is currently unavailable.  If you have one that you think would fit, please message kirby_freak.
+More info can be found at the [SmashWiki](http://www.ssbwiki.com/Grab_aerial), where this bot got its info.
+&
+zero-to-death combo
+A zero-to-death combo, commonly referred to as a zero-death or 0-death for short, is a combo, usually particularly long and intricate, that starts on an opponent at 0% damage, and ends
+with the eventual KO of the character being comboed. Zero-death is also used to refer to any general sequence where a player brought an opponent from 0% to a KO without interruption
+(such as beginning the opponent's stock with a combo that sends them into the air, then reading their landing option and punishing with an attack that sends them offstage, then reading
+their recovery option and punishing with an attack that KOs them). Zero-deaths are related to infinites, but are not the same. While an infinite can continue forever regardless of damage
+percent, a zero-death must come to an end as eventually the opponent will be knocked too far away to continue comboing, if they are not finished before then. However, zero-deaths and
+infinites are functionally equivalent, since infinites are utilised to zero-death the opponent, with their only additional utility over zero-deaths being able to stall by continuing the
+infinite beyond KO percent, which all serious tournaments have a general blanket rule forbidding.
+A GIF of the tech can be found [here](http://www.gfycat.com/ThinTeemingIndianpangolin) and more info can be found at the [SmashWiki](http://www.ssbwiki.com/Zero-to-death_combo),
+where this bot got its info.
