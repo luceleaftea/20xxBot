@@ -14,6 +14,8 @@ dotenv.load_dotenv(dotenv_path)
 
 # Set up and connect to reddit
 reddit = praw.Reddit('20xxBot')
+print(reddit.user.me())
+
 subredditName = os.environ.get('SUBREDDIT')
 subreddit = reddit.subreddit(subredditName)
 print("Connecting to r/" + subredditName)
@@ -161,7 +163,7 @@ while True:
         print("Tech keyword dictionary is set up")
     
     # Get recent comments from the subreddit
-    print("Getting new comments from /r/smashbros... ")
+    print("Getting new comments from /r/"+subredditName+"... ")
     try:
         comment_generator = subreddit.comments(limit = 1000)
     except:
