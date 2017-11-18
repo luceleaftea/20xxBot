@@ -46,28 +46,6 @@ while True:
     if (reimportFiles == 100):
         reimportFiles = 0
         
-        ### TERMS NOT FOUND DICTIONARY ###
-        #print "Setting up the unfound term dictionary"
-        # Get ready to set up the unfound term dictionary
-        #unfoundTerms = {}
-        #if os.path.exists("UnfoundTerms.txt"):
-        #    unfoundFile = open('UnfoundTerms.txt', 'r')
-        #else:
-        #    unfoundFile = open('UnfoundTerms.txt', 'a+')
-        # Set up the unfound term dictionary
-        #foundUnfoundKey = False
-        #unfoundKey = ''
-        #for line in unfoundFile:
-        #    line = line.strip('\n')
-        #    if foundUnfoundKey == False:
-        #        unfoundKey = line
-        #        foundUnfoundKey = True
-        #    else:
-        #        unfoundTerms[unfoundKey] = int(line)
-        #        foundUnfoundKey = False
-        #unfoundFile.close()
-        #print "Finished setting up the unfound term dictionary"
-        
         ### CHECKED COMMENTS LIST ###
         print("Setting up the checked comments list")
         # Get ready to set up the checked comments list
@@ -173,8 +151,8 @@ while True:
     
     # Loop through all the new comments
     skipComment = False
-    try:
-        for comment in comment_generator:
+    # try:
+    for comment in comment_generator:
             # Check if the comment has been checked before.  If it has, skip it.
             for checked in checkedComments:
                 if checked == comment.id:
@@ -300,21 +278,6 @@ while True:
                         print("Did not find a valid tech keyword. \nCommented with instructions containing correct syntax.")
                 except:
                     print("!! Exception thrown when replying to comment!!")
-                # Add unfound term to the dictionary
-                #if unfoundTerms.has_key(techAskedFor):
-                #    unfoundTerms[techAskedFor] += 1
-                #    unfoundFile = open('UnfoundTerms.txt', 'w')
-                #    for key in unfoundTerms:
-                #        unfoundFile.write(key + '\n')
-                #        unfoundFile.write(str(unfoundTerms[key]) + '\n')
-                #    unfoundFile.close()
-                #else:
-                #    unfoundTerms[techAskedFor] = 1
-                #    unfoundFile = open('UnfoundTerms.txt', 'a')
-                #    print techAskedFor
-                #    unfoundFile.write(techAskedFor + '\n')
-                #    unfoundFile.write("1\n")
-                #    unfoundFile.close()
                 print("")
             if commentCommandError == True:
                 # comment.reply(noCommandErrorMessage + botSig)
@@ -326,8 +289,8 @@ while True:
             checkFile.close()
             checkedComments.append(comment.id)
             print("Added comment to not be checked again.")
-    except:
-        print("!! Exception thrown while looping through comments!!")
+    # except:
+    #     print("!! Exception thrown while looping through comments!!")
     
     print("")
     reimportFiles += 1
